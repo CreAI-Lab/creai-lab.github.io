@@ -8,9 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@CreAI-Lab.com
+  email: c.stevenson@uva.nl
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: https://scholar.google.nl/citations?hl=nl&user=nmT-EaUAAAAJ
   github: CreAI-Lab
   twitter: CreAI-Lab
   youtube: CreAI-Lab
