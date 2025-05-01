@@ -5,7 +5,7 @@ role: phd
 description: PhD student at the University of Amsterdam
 links:
   email: g.opielka@uva.nl
-  linkedin: [gustaw-opielka](https://www.linkedin.com/in/gustaw-opie%C5%82ka-b4258a12b/)
+  linkedin: gustaw-opielka
 ---
 
 Gustaw is a PhD candidate working at the intersection of deep learning and cognitive science.  
