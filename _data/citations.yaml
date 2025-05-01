@@ -1,174 +1,339 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.31234/osf.io/f4a2g
+  title: Automated Assessment of Creativity in Multilingual Narratives
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Simone Luchini
+  - Moosa Ibraheem Muhammad
+  - John D. Patterson
+  - Dan Richard Johnson
+  - Matthijs Baas
+  - Baptiste Barbot
+  - Iana Bashmakova
+  - Mathias Benedek
+  - Qunlin Chen
+  - GIOVANNI EMANUELE CORAZZA
+  - Boris Forthmann
+  - Benjamin Goecke
+  - Sameh Said Ibrahim
+  - Maciej Karwowski
+  - Yoed Kenett
+  - Izabela Lebuda
+  - Todd Lubart
+  - Kirill G. Miroshnik
+  - Felix Kingsley Obialo
+  - Marcela Ovando-Tellez
+  - Ricardo Primi
+  - Rogelio Puente Diaz
+  - Claire Stevenson
+  - Emmanuelle Volle
+  - "Aleksandra Zieli\u0144ska"
+  - Janet van Hell
+  - Yin Wenpeng
+  - Roger Beaty
+  publisher: Center for Open Science
+  date: '2024-08-22'
+  link: https://doi.org/g9g5hk
+  orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.chbr.2024.100456
+  title: "Playing single-player tasks together: Dyads\u2019 collaborative activities\
+    \ across two games in Math Garden"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - M.S.M. Sachisthal
+  - C. Paans
+  - A.D. Hofman
+  - C.M. Stevenson
+  - H.L.J. van der Maas
+  - I. Molenaar
+  - B.R.J. Jansen
+  publisher: Computers in Human Behavior Reports
+  date: '2024-08-01'
+  link: https://doi.org/g9g5hm
+  orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1007/s44206-023-00054-2
+  title: "How Accurate are GPT-3\u2019s Hypotheses About Social Science Phenomena?"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Hannes Rosenbusch
+  - Claire E. Stevenson
+  - Han L. J. van der Maas
+  publisher: Digital Society
+  date: '2023-07-03'
+  link: https://doi.org/g9g5hn
+  orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1037/xlm0001177
+  title: Creative or not? Hierarchical diffusion modeling of the creative evaluation
+    process.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Michelle C. Donzallaz
+  - Julia M. Haaf
+  - Claire E. Stevenson
+  publisher: 'Journal of Experimental Psychology: Learning, Memory, and Cognition'
+  date: '2023-06-01'
+  link: https://doi.org/g9g5hp
+  orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.31234/osf.io/5eryv
+  title: Creative or Not? Hierarchical Diffusion Modeling of the Creative Evaluation
+    Process
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Michelle C. Donzallaz
+  - Julia M. Haaf
+  - Claire Stevenson
+  publisher: Center for Open Science
+  date: '2021-04-03'
+  link: https://doi.org/g9g5hq
+  orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.3390/jintelligence9010009
+  title: A Minimal Theory of Creative Ability
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Claire Stevenson
+  - Matthijs Baas
+  - Han van der Maas
+  publisher: Journal of Intelligence
+  date: '2021-02-16'
+  link: https://doi.org/gmm8bh
+  orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.20944/preprints202010.0314.v1
+  title: Creative Mathematical Thinking in a Numbers Game
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Joost Kruis
+  - Claire Stevenson
+  - Han L. J. van der Maas
+  publisher: MDPI AG
+  date: '2020-10-15'
+  link: https://doi.org/g9g5hr
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/t5e3g
+  title: A Minimal Theory of Creative Ability
+  authors:
+  - Claire Stevenson
+  - Matthijs Baas
+  - Han van der Maas
+  publisher: Center for Open Science
+  date: '2020-06-23'
+  link: https://doi.org/g9g5hs
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lindif.2018.04.010
+  title: 'Learning to solve figural matrix analogies: The paths children take'
+  authors:
+  - Claire E. Stevenson
+  - Marian Hickendorff
+  publisher: Learning and Individual Differences
+  date: '2018-08-01'
+  link: https://doi.org/gfhm6p
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jintelligence6010014
+  title: A Solution to the Measurement Problem in the Idiographic Approach Using Computer
+    Adaptive Practicing
+  authors:
+  - Abe Hofman
+  - Brenda Jansen
+  - Susanne De Mooij
+  - Claire Stevenson
+  - Han Van der Maas
+  publisher: Journal of Intelligence
+  date: '2018-03-02'
+  link: https://doi.org/g9g5ht
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/icd.2067
+  title: "Adolescents' responses to online peer conflict: How self\u2010evaluation\
+    \ and ethnicity matter"
+  authors:
+  - Sheida Novin
+  - Marieke G.N. Bos
+  - Claire E. Stevenson
+  - Carolien Rieffe
+  publisher: Infant and Child Development
+  date: '2017-11-23'
+  link: https://doi.org/gdfdh4
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/xa2ft
+  title: 'The dynamics of the development of mathematics skills: A comparison of theories
+    of developing intelligence.'
+  authors:
+  - Abe Dirk Hofman
+  - Rogier Kievit
+  - Claire Stevenson
+  - Dylan Molenaar
+  - Ingmar Visser
+  - Han van der Maas
+  publisher: Center for Open Science
+  date: '2018-02-28'
+  link: https://doi.org/gfrfwk
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jintelligence5020016
+  title: Network Models for Cognitive Development  and Intelligence
+  authors:
+  - Han Van Der Maas
+  - Kees-Jan Kan
+  - Maarten Marsman
+  - Claire E. Stevenson
+  publisher: Journal of Intelligence
+  date: '2017-04-20'
+  link: https://doi.org/gfrd9k
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints201701.0107.v1
+  title: Network Models for Cognitive Development and Intelligence
+  authors:
+  - Han Van Der Maas
+  - Kees-Jan Kan
+  - Maarten Marsman
+  - Claire E. Stevenson
+  publisher: MDPI AG
+  date: '2017-01-25'
+  link: https://doi.org/g9g5hv
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lindif.2015.12.025
+  title: 'Dynamic testing: Assessing cognitive potential of children with culturally
+    diverse backgrounds'
+  authors:
+  - Claire E. Stevenson
+  - Willem J. Heiser
+  - Wilma C.M. Resing
+  publisher: Learning and Individual Differences
+  date: '2016-04-01'
+  link: https://doi.org/f8qbtk
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lindif.2014.11.010
+  title: "Third graders\u2019 verbal reports of multiplication strategy use: How valid\
+    \ are they?"
+  authors:
+  - Helen C. Reed
+  - Claire Stevenson
+  - Marije Broens-Paffen
+  - Paul A. Kirschner
+  - Jelle Jolles
+  publisher: Learning and Individual Differences
+  date: '2015-01-01'
+  link: https://doi.org/f63mtb
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnhum.2014.00827
+  title: 'Training creative cognition: adolescence as a flexible period for improving
+    creativity'
+  authors:
+  - Claire E. Stevenson
+  - Sietske W. Kleibeuker
+  - Carsten K. W. de Dreu
+  - Eveline A. Crone
+  publisher: Frontiers in Human Neuroscience
+  date: '2014-10-29'
+  link: https://doi.org/gk8n39
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpsyg.2014.00827
+  title: Visual relations children find easy and difficult to process in figural analogies
+  authors:
+  - Claire E. Stevenson
+  - Rosa A. Alberto
+  - Max A. van den Boom
+  - Paul A. L. de Boeck
+  publisher: Frontiers in Psychology
+  date: '2014-08-05'
+  link: https://doi.org/f6fnrk
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/icd.1833
+  title: Working Memory and Dynamic Measures of Analogical Reasoning as Predictors
+    of Children's Math and Reading Achievement
+  authors:
+  - Claire E. Stevenson
+  - Catharina E. Bergwerff
+  - Willem J. Heiser
+  - Wilma C. M. Resing
+  publisher: Infant and Child Development
+  date: '2013-12-12'
+  link: https://doi.org/g9g5hw
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.intell.2013.01.003
+  title: Explanatory item response modeling of children's change on a dynamic test
+    of analogical reasoning
+  authors:
+  - Claire E. Stevenson
+  - Marian Hickendorff
+  - Wilma C.M. Resing
+  - Willem J. Heiser
+  - Paul A.L. de Boeck
+  publisher: Intelligence
+  date: '2013-05-01'
+  link: https://doi.org/f4xsjc
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cedpsych.2013.02.001
+  title: Working memory as a moderator of training and transfer of analogical reasoning
+    in children
+  authors:
+  - Claire E. Stevenson
+  - Willem J. Heiser
+  - Wilma C.M. Resing
+  publisher: Contemporary Educational Psychology
+  date: '2013-07-01'
+  link: https://doi.org/g9g5hx
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1348/026151004772901122
+  title: "Discovery and maintenance of the many\u2010to\u2010one counting strategy\
+    \ in 4\u2010year\u2010olds: A microgenetic study"
+  authors:
+  - "Anke W. Bl\xF6te"
+  - Sandra G. Van Otterloo
+  - Claire E. Stevenson
+  - Marcel V. J. Veenman
+  publisher: British Journal of Developmental Psychology
+  date: '2004-03-01'
+  link: https://doi.org/b557zx
+  orcid: 0000-0003-1797-9836
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints201802.0092.v1
+  title: A Solution to the Measurement Problem in the Idiographic Approach Using Computer
+    Adaptive Practicing
+  authors:
+  - Abe D. Hofman
+  - Brenda R. J. Jansen
+  - Susanne M. M. de Mooij
+  - Claire Stevenson
+  - Han L. J. van der Maas
+  publisher: MDPI AG
+  date: '2018-02-13'
+  link: https://doi.org/g9g5hz
+  orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +349,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +365,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
