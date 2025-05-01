@@ -6,7 +6,7 @@ image: /images/creativity-ai.jpg
 
 # Anology solving
 
-![Creativity AI](/images/Letterstring-analogies.jpg)
+![Creativity AI](/images/Letterstring-analogies.png)
 
 We are studying whether AI can generalize...
 
