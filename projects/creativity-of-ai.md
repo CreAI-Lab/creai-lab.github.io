@@ -6,7 +6,7 @@ image: /images/creativity-ai.jpg
 
 # Creativity of AI
 
-![Creativity AI](/images/AI creativity.png)
+![Creativity AI](/images/AI-creativity.png)
 
 We are studying if AI can generate creative content...
 
