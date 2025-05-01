@@ -4,7 +4,7 @@ layout: default
 image: /images/creativity-ai.jpg
 ---
 
-# Anology solving
+# Analogy solving
 
 ![Creativity AI](/images/Letterstring-analogies.png)
 
