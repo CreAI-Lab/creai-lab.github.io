@@ -9,6 +9,8 @@ nav:
 
 The research of the CreAI Lab focusses on investigating the intelligence and creativity of the newest AI models. Through creativity tasks, puzzles and intelligence tests both languange and vision language models get tested and compared to adults and even children. 
 
+Here you can find the latest publications of the lab. 
+
 {% include section.html %}
 
 ## Highlighted
