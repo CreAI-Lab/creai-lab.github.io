@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The research of the CreAI Lab focusses on investigating the intelligence and creativity of the newest AI models. Through creativity tasks, puzzles and intelligence tests both languange and vision language models get tested and compared to adults and even children. 
 
 {% include section.html %}
 
