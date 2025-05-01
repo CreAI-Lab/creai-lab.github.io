@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The CreaAI lab has done interesting projects over the years. For a full list of publications go to the research page. Here you can find results and you can even participate in some of the studies. 
 
 {% include tags.html tags="publication, resource, website" %}
 
