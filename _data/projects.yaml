@@ -3,66 +3,75 @@
   image: /images/creativity-ai.jpg  # Replace with your actual image path
   description: Investigating if artificial intelligence can generate creative outputs. Participate in our experiment.
   link: /projects/creativity-of-ai  # Replace with real URL
+  tags:
+    - infographic
+    - participate
+
 
 - title: Bongard Problems
   group: featured
   image: /images/bongard.jpg  # Replace with your actual image path
   description: Investigating the visual reasoning abilities of AI. Solve some classic Bongard problems.
   link: /projects/bongard-problems  # Replace with real URL
-
+  tags:
+    - infographic
+    - participate
+    
 - title: Letterstring Analogies
   group: featured
   image: /images/letterstrings.jpg  # Replace with your actual image path
   description: Can AI do analogical reasoning? Participate in analogy-solving tasks using letterstrings.
   link: /projects/letterstrings  # Replace with real URL
-
+  tags:
+    - infographic
+    - participate
 
 
 # original projects of the template
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+#- title: Cool Dataset
+#  subtitle: a subtitle
+#  group: featured
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+#- title: Cool Package
+#  subtitle: a subtitle
+#  group: featured
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+#- title: Cool Tutorial
+#  subtitle: a subtitle
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - resource
+#    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+#- title: Cool Web App
+#  subtitle: a subtitle
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+ #   - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+#- title: Cool Web Server
+#  subtitle: a subtitle
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - software
