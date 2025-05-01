@@ -336,14 +336,16 @@
   orcid: 0000-0003-1797-9836
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- title: Network models for cognitive development and intelligence
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:LPtt_HFRSbwC
+  citation_id: nmT-EaUAAAAJ:LPtt_HFRSbwC
+  authors: HLJ Van Der Maas, KJ Kan, M Marsman, CE Stevenson
+  publication: Journal of Intelligence 5 (2), 16, 2017
+  cited_by:
+    value: 193
+    link: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931121143319529214
+    serpapi_link: https://serpapi.com/search.json?cites=9931121143319529214&engine=google_scholar&hl=en
+    cites_id: '9931121143319529214'
+  year: '2017'
   plugin: sources.py
   file: sources.yaml
