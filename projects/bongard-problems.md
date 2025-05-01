@@ -6,7 +6,7 @@ image: /images/creativity-ai.jpg
 
 # Solving Bongard Problems
 
-![Creativity AI](/images/Bongard.png)
+![Bongard](/images/Bongard.png)
 
 We are studying if AI can solve Bongard Problems...
 
