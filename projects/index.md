@@ -9,7 +9,7 @@ nav:
 
 The CreaAI lab has done interesting projects over the years. For a full list of publications go to the research page. Here you can find results and you can even participate in some of the studies. 
 
-{% include tags.html tags="participation, infographics, resource" %}
+{% include tags.html tags="participate, infographic, resource" %}
 
 {% include search-info.html %}
 
