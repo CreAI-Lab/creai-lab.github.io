@@ -1,7 +1,7 @@
 ---
 name: Claire Stevenson
 image: images/team/claire.jpg  # You’ll need to add this image
-role: assistant-professor
+role: pi
 description: Assistant Professor of Psychology at the University of Amsterdam
 links:
   email: claire.stevenson@uva.nl
