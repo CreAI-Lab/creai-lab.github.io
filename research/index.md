@@ -13,11 +13,13 @@ Here you can find the latest publications of the lab.
 
 {% include section.html %}
 
+<!--
 ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+-->
 
 ## All
 
