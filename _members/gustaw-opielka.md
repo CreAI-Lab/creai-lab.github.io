@@ -3,6 +3,7 @@ name: Gustaw Opielka
 image: images/team/gustaw.jpg  # You’ll need to add this image
 role: phd
 description: PhD student at the University of Amsterdam
+group: team
 links:
   email: g.opielka@uva.nl
   linkedin: gustaw-opielka
