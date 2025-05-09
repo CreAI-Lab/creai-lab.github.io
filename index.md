@@ -3,15 +3,14 @@
 
 # CreAI-Lab's Website
 
-An engaging 1-3 sentence description of your lab.
-
+Welkom to the website of the CreAI lab!
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Take a look at the publications. 
 
 {%
   include button.html
@@ -34,8 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Dive into the results and participate in some of the research. 
 {%
   include button.html
   link="projects"
@@ -59,8 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Meet the team. 
 {%
   include button.html
   link="team"
