@@ -11,8 +11,13 @@ The team consists of several people.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Team
+
+{% include list.html data="members" component="portrait" filter="group == 'team'" %}
+
+## Collaborators
+
+{% include list.html data="members" component="portrait" filter="group == 'collaborators'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
