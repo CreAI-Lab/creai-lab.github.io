@@ -10,9 +10,7 @@ links:
 
 ---
 
-Claire Stevenson is an Assistant Professor in the Pschychological Methods Department of Psychology at the University of Amsterdam.  
-Her research focuses on:
-
+Research Focus: 
 - Cognitive development  
 - Intelligence  
 - Creativity  
