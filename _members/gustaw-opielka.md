@@ -8,9 +8,7 @@ links:
   linkedin: gustaw-opielka
 ---
 
-Gustaw is a PhD candidate working at the intersection of deep learning and cognitive science.  
-His expertise includes:
-
+Research focus: 
 - Deep Learning  
 - Explainability  
 - Computational Neuroscience  
