@@ -1,6 +1,9 @@
 # map general type to default/fallback icon, text, etc.
 
 # team member roles
+professor:
+  icon: fa-solid fa-microscope
+  description: professor
 
 assistant professor:
   icon: fa-solid fa-microscope
