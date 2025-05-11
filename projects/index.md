@@ -21,6 +21,9 @@ The CreaAI lab has done interesting projects over the years. For a full list of 
 
 {% include section.html %}
 
+
+<!--
 ## More
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+-->
