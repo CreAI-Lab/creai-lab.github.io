@@ -1,24 +1,29 @@
-- id: arXiv:2503.03666
-- id: arXiv:2502.05999
-- id: arXiv:2411.02348
-- id: arXiv:2411.02316
-- id: arXiv:2405.00899
-- id: arXiv:2403.09734
-- id: arXiv:2311.08083
-- id: arXiv:2310.20384
-- id: arXiv:2206.08932
+- title: Do large language models solve ARC visual analogies like people do?
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aGQaCEcAAAAJ&citation_for_view=aGQaCEcAAAAJ:u5HHmVD_uO8C
+  citation_id: aGQaCEcAAAAJ:u5HHmVD_uO8C
+  authors: G Opiełka, H Rosenbusch, V Vijverberg, CE Stevenson
+  publication: Annual Meeting of the Cognitive Science Society (CogSci 2024), 2024
+  cited_by:
+    value: 3
+    link: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942169884171881483
+    serpapi_link: https://serpapi.com/search.json?cites=942169884171881483&engine=google_scholar&hl=en
+    cites_id: '942169884171881483'
+  year: '2024'
 
+- title: Analogical Reasoning Inside Large Language Models: Concept Vectors and the Limits of Abstraction
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aGQaCEcAAAAJ&citation_for_view=aGQaCEcAAAAJ:d1gkVwhDpl0C
+  citation_id: aGQaCEcAAAAJ:d1gkVwhDpl0C
+  authors: G Opiełka, H Rosenbusch, CE Stevenson
+  publication: arXiv preprint arXiv:2503.03666, 2025
+  cited_by:
+    value: null
+  year: '2025'
 
-- id: arXiv:2403.09734
-- id: arXiv:2503.03666
-- id: arXiv:2404.18772
-
-
-
-- id: doi:10.1037/aca0000725
-- id: doi:10.1017/S0140525X23003497
-- id: doi:10.1037/aca0000618
-- id: doi:10.1037/xlm0001177
-- id: doi:10.1016/j.intell.2021.101548
-- id: doi:10.3390/jintelligence9010009
-
+- title: Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural Networks and the Brain
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aGQaCEcAAAAJ&citation_for_view=aGQaCEcAAAAJ:u-x6o8ySG0sC
+  citation_id: aGQaCEcAAAAJ:u-x6o8ySG0sC
+  authors: G Opiełka, J Loke, S Scholte
+  publication: ICLR 2024 Re-Align Workshop, 2024
+  cited_by:
+    value: null
+  year: '2024'
