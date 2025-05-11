@@ -1,7 +1,8 @@
 - title: Creativity of AI
   group: featured
-  image: /images/creativity-ai.jpg  # Replace with your actual image path
-  description: Investigating if artificial intelligence can generate creative outputs. Participate in our experiment.
+  image: /images/creative-ai.png  # Replace with your actual image path
+  description: Can AI generate creative output?
+  Participate in our experiment!
   link: /projects/creativity-of-ai  # Replace with real URL
   tags:
     - infographic
@@ -11,7 +12,8 @@
 - title: Bongard Problems
   group: featured
   image: /images/bongard.jpg  # Replace with your actual image path
-  description: Investigating the visual reasoning abilities of AI. Solve some classic Bongard problems.
+  description: Can AI answer Bongard Problems correctly? 
+  Solve some classic Bongard problems yourself!
   link: /projects/bongard-problems  # Replace with real URL
   tags:
     - infographic
@@ -20,7 +22,8 @@
 - title: Letterstring Analogies
   group: featured
   image: /images/letterstrings.jpg  # Replace with your actual image path
-  description: Can AI do analogical reasoning? Participate in analogy-solving tasks using letterstrings.
+  description: Can AI do analogical reasoning? 
+  Participate in analogy-solving tasks using letterstrings!
   link: /projects/letterstrings  # Replace with real URL
   tags:
     - infographic
