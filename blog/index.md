@@ -9,6 +9,7 @@ nav:
 
 Sadly we have no content for this page yet. 
 
+{% raw %}
 <!--
 {% include section.html %}
 
@@ -20,3 +21,4 @@ Sadly we have no content for this page yet.
 
 {% include list.html data="posts" component="post-excerpt" %}
 -->
+{% endraw %}
