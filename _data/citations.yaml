@@ -81,8 +81,8 @@
   link: https://doi.org/g9g5hp
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.31234/osf.io/5eryv
   title: Creative or Not? Hierarchical Diffusion Modeling of the Creative Evaluation
     Process
@@ -108,8 +108,8 @@
   link: https://doi.org/gmm8bh
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.20944/preprints202010.0314.v1
   title: Creative Mathematical Thinking in a Numbers Game
   authors:
@@ -404,5 +404,178 @@
   publisher: arXiv
   date: '2025-03-05'
   link: https://arxiv.org/abs/2411.02316
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2405.00899
+  title: Characterising the Creative Process in Humans and Large Language Models
+  authors:
+  - Surabhi S. Nath
+  - Peter Dayan
+  - Claire Stevenson
+  publisher: arXiv
+  date: '2024-06-07'
+  link: https://arxiv.org/abs/2405.00899
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2403.09734
+  title: Do Large Language Models Solve ARC Visual Analogies Like People Do?
+  authors:
+  - "Gustaw Opie\u0142ka"
+  - Hannes Rosenbusch
+  - Veerle Vijverberg
+  - Claire E. Stevenson
+  publisher: arXiv
+  date: '2024-05-14'
+  link: https://arxiv.org/abs/2403.09734
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2311.08083
+  title: 'Solving ARC visual analogies with neural embeddings and vector arithmetic:
+    A generalized method'
+  authors:
+  - Luca H. Thoms
+  - Karel A. Veldkamp
+  - Hannes Rosenbusch
+  - Claire E. Stevenson
+  publisher: arXiv
+  date: '2023-11-15'
+  link: https://arxiv.org/abs/2311.08083
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2310.20384
+  title: Do large language models solve verbal analogies like children do?
+  authors:
+  - Claire E. Stevenson
+  - Mathilde ter Veen
+  - Rochelle Choenni
+  - Han L. J. van der Maas
+  - Ekaterina Shutova
+  publisher: arXiv
+  date: '2023-11-01'
+  link: https://arxiv.org/abs/2310.20384
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2206.08932
+  title: Putting GPT-3's Creativity to the (Alternative Uses) Test
+  authors:
+  - Claire Stevenson
+  - Iris Smal
+  - Matthijs Baas
+  - Raoul Grasman
+  - Han van der Maas
+  publisher: arXiv
+  date: '2022-06-22'
+  link: https://arxiv.org/abs/2206.08932
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2404.18772
+  title: 'Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural
+    Networks and the Brain'
+  authors:
+  - "Gustaw Opie\u0142ka"
+  - Jessica Loke
+  - Steven Scholte
+  publisher: arXiv
+  date: '2024-04-30'
+  link: https://arxiv.org/abs/2404.18772
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1037/aca0000725
+  title: Automated assessment of creativity in multilingual narratives.
+  authors:
+  - Simone A. Luchini
+  - Ibraheem Muhammad Moosa
+  - John D. Patterson
+  - Dan Johnson
+  - Matthijs Baas
+  - Baptiste Barbot
+  - Iana Bashmakova
+  - Mathias Benedek
+  - Qunlin Chen
+  - Giovanni E. Corazza
+  - Boris Forthmann
+  - Benjamin Goecke
+  - Sameh Said-Metwaly
+  - Maciej Karwowski
+  - Yoed N. Kenett
+  - Izabela Lebuda
+  - Todd Lubart
+  - Kirill G. Miroshnik
+  - Felix-Kingsley Obialo
+  - Marcela Ovando-Tellez
+  - Ricardo Primi
+  - "Rogelio Puente-D\xEDaz"
+  - Claire Stevenson
+  - Emmanuelle Volle
+  - "Aleksandra Zieli\u0144ska"
+  - Janet G. van Hell
+  - Wenpeng Yin
+  - Roger E. Beaty
+  publisher: Psychology of Aesthetics, Creativity, and the Arts
+  date: '2025-03-13'
+  link: https://doi.org/g9h4m4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/S0140525X23003497
+  title: 'Distinct neurocognitive pathways underlying creativity: An integrative approach'
+  authors:
+  - Matthijs Baas
+  - Claire E. Stevenson
+  - Corinna Perchtold-Stefan
+  - Bernard A. Nijstad
+  - Carsten K. W. De Dreu
+  publisher: Behavioral and Brain Sciences
+  date: '2024-01-01'
+  link: https://doi.org/g9h4m5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1037/aca0000618
+  title: 'Multilingual semantic distance: Automatic verbal creativity assessment in
+    many languages.'
+  authors:
+  - John D. Patterson
+  - Hannah M. Merseal
+  - Dan R. Johnson
+  - Sergio Agnoli
+  - Matthijs Baas
+  - Brendan S. Baker
+  - Baptiste Barbot
+  - Mathias Benedek
+  - Khatereh Borhani
+  - Qunlin Chen
+  - Julia F. Christensen
+  - Giovanni Emanuele Corazza
+  - Boris Forthmann
+  - Maciej Karwowski
+  - Nastaran Kazemian
+  - Ariel Kreisberg-Nitzav
+  - Yoed N. Kenett
+  - Allison Link
+  - Todd Lubart
+  - Maxence Mercier
+  - Kirill Miroshnik
+  - Marcela Ovando-Tellez
+  - Ricardo Primi
+  - "Rogelio Puente-D\xEDaz"
+  - Sameh Said-Metwaly
+  - Claire Stevenson
+  - Meghedi Vartanian
+  - Emannuelle Volle
+  - Janet G. van Hell
+  - Roger E. Beaty
+  publisher: Psychology of Aesthetics, Creativity, and the Arts
+  date: '2023-08-01'
+  link: https://doi.org/gts76g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.intell.2021.101548
+  title: How much intelligence is there in artificial intelligence? A 2020 update
+  authors:
+  - Han L.J. van der Maas
+  - Lukas Snoek
+  - Claire E. Stevenson
+  publisher: Intelligence
+  date: '2021-07-01'
+  link: https://doi.org/gj6vsr
   plugin: sources.py
   file: sources.yaml
