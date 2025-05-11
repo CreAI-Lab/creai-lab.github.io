@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-The team consists of several people. 
-
 {% include section.html %}
 
 ## Team
