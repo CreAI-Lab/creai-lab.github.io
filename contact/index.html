@@ -498,105 +498,53 @@
     </a>
   </div>
 
-<!--
-  </section>
+<!-- 
+{% include section.html %}
 
-  
-  
-  
+{% capture col1 %}
 
-  <section
-    class="background"
-    data-size="page"
-    
-    
-  >
-    <!--
-  <background></background>
-  <dark></dark>
-  <size></size>
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
+
+{% capture col1 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col2 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col3 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %} 
 -->
-
-<div class="cols" style="--cols: 2">
-  
-    
-    <div>
-<figure class="figure">
-  <a class="figure-image" aria-label="Lorem ipsum">
-    <img src="/CreAI-Lab/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="Lorem ipsum" loading="lazy" onerror="this.src = '/CreAI-Lab/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-    <figcaption class="figure-caption">
-      Lorem ipsum
-
-    </figcaption>
-  
-</figure>
-
-</div>
-  
-    
-    <div>
-<figure class="figure">
-  <a class="figure-image" aria-label="Lorem ipsum">
-    <img src="/CreAI-Lab/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="Lorem ipsum" loading="lazy" onerror="this.src = '/CreAI-Lab/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-    <figcaption class="figure-caption">
-      Lorem ipsum
-
-    </figcaption>
-  
-</figure>
-
-</div>
-  
-</div>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="1" data-dark="true">
-    <!--
-  <background></background>
-  <dark>true</dark>
-  <size>1</size>
--->
-
-<div class="cols" style="--cols: 3">
-  
-    
-    <div>
-<p>Lorem ipsum dolor sit amet<br>
-consectetur adipiscing elit<br>
-sed do eiusmod tempor</p>
-</div>
-  
-    
-    <div>
-<p>Lorem ipsum dolor sit amet<br>
-consectetur adipiscing elit<br>
-sed do eiusmod tempor</p>
-</div>
-  
-    
-    <div>
-<p>Lorem ipsum dolor sit amet<br>
-consectetur adipiscing elit<br>
-sed do eiusmod tempor</p>
-</div>
-  
-</div>
-
-<p>–&gt;</p>
   </section>
 
 
