@@ -1,7 +1,7 @@
 ---
 title: Bongard Problems
 layout: default
-image: /images/creativity-ai.jpg
+image: /images/bongard-ai.jpg
 ---
 
 # Solving Bongard Problems
