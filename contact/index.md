@@ -6,31 +6,28 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+You can reach us at: 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="C.E.Stevenson@uva.nl"
+  link="C.E.Stevenson@uva.nl"
 %}
-{%
+<!--{%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
-%}
+%} -->
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Nieuwe+Achtergracht+129,+1018+VZ+Amsterdam/@52.3637299,4.9119298,18.82z/data=!4m6!3m5!1s0x47c60998dc1b35ed:0x6aa4c82e18789490!8m2!3d52.3636386!4d4.9126255!16s%2Fg%2F11rgfzcyrg?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D"
 %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 {% capture col1 %}
 
@@ -74,4 +71,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
