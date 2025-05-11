@@ -10,8 +10,6 @@ Welkom to the website of the CreAI lab!
 
 {% capture text %}
 
-Take a look at the publications. 
-
 {%
   include button.html
   link="research"
@@ -33,7 +31,6 @@ Take a look at the publications.
 
 {% capture text %}
 
-Dive into the results and participate in some of the research. 
 {%
   include button.html
   link="projects"
@@ -57,7 +54,6 @@ Dive into the results and participate in some of the research.
 
 {% capture text %}
 
-Meet the team. 
 {%
   include button.html
   link="team"
