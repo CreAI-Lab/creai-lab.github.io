@@ -9,7 +9,7 @@ links:
   linkedin: gustaw-opielka
 ---
 
-Research focus: 
+Research focus:  
 - Deep Learning  
 - Explainability  
 - Computational Neuroscience  
