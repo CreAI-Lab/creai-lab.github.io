@@ -1,7 +1,7 @@
 ---
 title: Creativity of AI
 layout: default
-image: /images/creativity-ai.jpg
+image: /images/creative-ai.png
 ---
 
 # Creativity of AI
