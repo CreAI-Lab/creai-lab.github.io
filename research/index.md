@@ -13,13 +13,12 @@ Here you can find the latest publications of the lab.
 
 {% include section.html %}
 
-<!--
+
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Can Large Language Models generalize analogy solving like people can?" style="rich" %}
 
-{% include section.html %}
--->
+{% include section.html %} 
 
 ## All
 
