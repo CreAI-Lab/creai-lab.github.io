@@ -1,3 +1,4 @@
+# Claire's articles
 - id: arXiv:2503.03666
 - id: arXiv:2502.05999
 - id: arXiv:2411.02348
@@ -7,18 +8,75 @@
 - id: arXiv:2311.08083
 - id: arXiv:2310.20384
 - id: arXiv:2206.08932
-
-
-- id: arXiv:2403.09734
-- id: arXiv:2503.03666
-- id: arXiv:2404.18772
-
-
-
 - id: doi:10.1037/aca0000725
 - id: doi:10.1017/S0140525X23003497
 - id: doi:10.1037/aca0000618
 - id: doi:10.1037/xlm0001177
 - id: doi:10.1016/j.intell.2021.101548
 - id: doi:10.3390/jintelligence9010009
+- id: doi:10.1002/icd.2067
+- id: doi:10.1007/s11145-017-9803-8
+- id: doi:10.1007/s40593-016-0129-5
+- id: doi:10.11114/jets.v5i6.2326 
+- id: doi:10.1037/dev0000239
+- id: doi:10.1177/07342829156229
+- id: doi:10.1002/icd.1833
+- id: doi:10.1891/1945-8959.11.2.159
+- id: doi:10.1891/1945-8959.10.2.178
+
+- title: Idiographic Approach Using Computer Adaptive Practicing
+  authors:
+    - Abe D Hofman
+    - Brenda RJ Jansen
+    - Susanne MM de Mooij
+    - Claire E Stevenson
+    - Han LJ van der Maas
+  publisher: MDPI
+  date: 2019-7-1
+  link: https://books.google.nl/books?hl=en&lr=&id=oYqgDwAAQBAJ&oi=fnd&pg=PA59&dq=info:P2FGGV2gcS8J:scholar.google.com&ots=PI46DLY5Ax&sig=x42FQQxluFQeL1hUFL6ftsLxPwM&redir_esc=y#v=onepage&q&f=false
+
+- title: Individual differences in the effect of feedback on children's change in analogical reasoning.
+  authors:
+    - Claire E Stevenson
+    - Wilma CM Resing
+    - Willem J Heiser
+  conference: AIED Workshops
+  date: 2013-1-1
+  link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c18cd644983d16dbc51af62eae4c01cea2546af6
+
+- title: Assessing Software Design Skills and their Relation with Reasoning Skills.
+  authors:
+    - Dave R Stikkolorum
+    - Claire Stevenson
+    - Michel RV Chaudron
+  conference: EduSymp@ MoDELS
+  date: 2013
+  link: https://homepages.inf.ed.ac.uk/perdita/EduSymp/edusymp2013_submission_8.pdf
+
+- title: Computer or paper analogy puzzles: Does assessment mode influence young children's strategy progression?
+  authors:
+    - Claire E Stevenson
+    - Kirsten WJ Touw
+    - Wilma Resing
+  publisher: British Psychological Society
+  date: 2011
+  link: https://psycnet.apa.org/record/2011-16938-006
+
+- title: Analogical reasoning skill acquisition with self-explanation in 7–8 year olds: Does feedback help?
+  authors:
+    - Claire E Stevenson
+    - Wilma Resing
+    - Mandy N. Froma
+  publisher: Educational and Child Psychology
+  date: 2009
+  link: https://www.researchgate.net/profile/Claire-Stevenson-4/publication/291879839_Analogical_reasoning_skill_acquisition_with_self-explanation_in_7-to_8-year-olds_Does_feedback_help/links/5971d474aca2721b09791f4a/Analogical-reasoning-skill-acquisition-with-self-explanation-in-7-to-8-year-olds-Does-feedback-help.pdf
+
+
+#gustaws articles
+- id: arXiv:2403.09734
+- id: arXiv:2503.03666
+- id: arXiv:2404.18772
+
+
+
 
