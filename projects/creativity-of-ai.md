@@ -6,8 +6,6 @@ image: /images/creative-ai.png
 
 # Creativity of AI
 
-![Creativity AI](/images/AI-creativity.png)
-
 {%
   include figure.html
   image="images/AI-creativity.png"
