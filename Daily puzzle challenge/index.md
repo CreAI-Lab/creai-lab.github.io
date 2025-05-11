@@ -5,7 +5,7 @@ nav:
   tooltip: Try some of the puzzles we give to AI!
 ---
 
-# {% include icon.html icon="fa-solid fa-puzzle-piece" %}Blog
+# {% include icon.html icon="fa-solid fa-puzzle-piece" %}Daily puzzle challenge
 
 Sadly we have no content for this page yet. 
 
