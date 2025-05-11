@@ -1,7 +1,7 @@
 ---
 title: Letterstring analogies
 layout: default
-image: /images/creativity-ai.jpg
+image: /images/analogy-ai.png
 ---
 
 # Analogy solving
