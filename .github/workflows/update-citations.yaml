@@ -59,8 +59,7 @@ jobs:
         if: github.event.action != 'closed'
         run: python _cite/cite.py
         timeout-minutes: 15
-        env:
-          GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
+      
 
       - name: Commit cache
         if: failure()
