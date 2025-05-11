@@ -1,7 +1,7 @@
 ---
 title: Bongard Problems
 layout: default
-image: /images/bongard-ai.jpg
+image: /images/bongard-ai.png
 ---
 
 # Solving Bongard Problems
