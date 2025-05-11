@@ -47,17 +47,17 @@
 <link rel="icon" href="/CreAI-Lab/images/icon.png">
 
 <meta name="title" content="Melanie Mitchell">
-<meta name="description" content="Researcher in cognitive science and creativity">
+<meta name="description" content="Professor at the Santa Fe Institute">
 
 <meta property="og:title" content="Melanie Mitchell">
 <meta property="og:site_title" content="">
-<meta property="og:description" content="Researcher in cognitive science and creativity">
+<meta property="og:description" content="Professor at the Santa Fe Institute">
 <meta property="og:url" content="https://creai-lab.github.io/CreAI-Lab">
 <meta property="og:image" content="/CreAI-Lab/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Melanie Mitchell">
-<meta property="twitter:description" content="Researcher in cognitive science and creativity">
+<meta property="twitter:description" content="Professor at the Santa Fe Institute">
 <meta property="twitter:url" content="https://creai-lab.github.io/CreAI-Lab">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/CreAI-Lab/images/share.jpg">
@@ -73,7 +73,7 @@
       "@type": "WebSite",
     
     "name": "Melanie Mitchell",
-    "description": "Researcher in cognitive science and creativity",
+    "description": "Professor at the Santa Fe Institute",
     "headline": "Melanie Mitchell",
     "publisher": {
       "@type": "Organization",
@@ -590,7 +590,7 @@
 
     
       <span class="portrait-description">
-        Researcher in cognitive science and creativity
+        Professor at the Santa Fe Institute
       </span>
     
 
