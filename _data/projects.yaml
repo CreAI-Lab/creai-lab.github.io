@@ -10,7 +10,7 @@
 
 - title: Bongard Problems
   group: featured
-  image: /images/bongard.jpg  # Replace with your actual image path
+  image: /images/bongard-ai.png  # Replace with your actual image path
   description: Can AI answer Bongard Problems correctly? Solve some classic Bongard problems yourself!
   link: /projects/bongard-problems  # Replace with real URL
   tags:
@@ -19,7 +19,7 @@
     
 - title: Letterstring Analogies
   group: featured
-  image: /images/letterstrings.jpg  # Replace with your actual image path
+  image: /images/analogy-ai.png  # Replace with your actual image path
   description: Can AI do analogical reasoning? Participate in analogy-solving tasks using letterstrings!
   link: /projects/letterstrings  # Replace with real URL
   tags:
