@@ -26,4 +26,4 @@ Here you can find the latest publications of the lab.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" show_image=false %}
