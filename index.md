@@ -22,7 +22,7 @@ We investigate the intelligence and creativity of current AI models. Our researc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -43,7 +43,7 @@ We investigate the intelligence and creativity of current AI models. Our researc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -66,7 +66,7 @@ We investigate the intelligence and creativity of current AI models. Our researc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
