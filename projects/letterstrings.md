@@ -10,6 +10,6 @@ image: /images/analogy-ai.png
   include figure.html
   image="images/Letterstring-analogies.png"
 %}
-We are studying whether AI can generalize...
+<!-- We are studying whether AI can generalize...
 
-[👉 Participate in the task here](https://example.com/creativity-ai)
+[👉 Participate in the task here](https://example.com/creativity-ai) -->
