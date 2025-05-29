@@ -11,6 +11,6 @@ image: /images/creative-ai.png
   image="images/AI-creativity.png"
 %}
 
-We are studying if AI can generate creative content...
+<!-- We are studying if AI can generate creative content...
 
-[👉 Participate in the task here](https://example.com/creativity-ai)
+[👉 Participate in the task here](https://example.com/creativity-ai) --->
