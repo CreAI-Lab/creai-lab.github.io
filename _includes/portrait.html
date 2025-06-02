@@ -1,22 +1,27 @@
 {% if include.lookup %}
-  {% assign member = site.members 
-    | where_exp: "member", "member.slug == include.lookup"
-    | first
-  %}
+  {% assign member = site.members | where_exp: "m", "m.slug == include.lookup" | first %}
 {% else %}
   {% assign member = include %}
 {% endif %}
 
 {% assign type = site.data.types[member.role] %}
-
 <div class="portrait-wrapper">
-  {% if member.external_url %}
-    <a href="{{ member.external_url }}" target="_blank" rel="noopener" class="portrait" data-style="{{ include.style }}" aria-label="{{ member.name | default: "member link" | regex_strip }}">
-  {% elsif page.slug != member.slug %}
-    <a href="{{ member.url | relative_url | uri_escape }}" class="portrait" data-style="{{ include.style }}" aria-label="{{ member.name | default: "member link" | regex_strip }}">
-  {% else %}
-    <div class="portrait" data-style="{{ include.style }}">
+
+  {% assign link_url = member.url | relative_url %}
+  {% assign is_external = member.external_url %}
+  {% if is_external %}
+    {% assign link_url = member.external_url %}
   {% endif %}
+
+  <a 
+    href="{{ link_url }}" 
+    class="portrait"
+    data-style="{{ include.style }}"
+    aria-label="{{ member.name | default: 'member link' | regex_strip }}"
+    {% if is_external %}
+      target="_blank" rel="noopener"
+    {% endif %}
+  >
 
     {% if type %}
       {% include icon.html icon=type.icon %}
@@ -31,9 +36,7 @@
     >
 
     {% if member.name %}
-      <span class="portrait-name">
-        {{ member.name }}
-      </span>
+      <span class="portrait-name">{{ member.name }}</span>
     {% endif %}
 
     {% if member.description or type %}
@@ -43,23 +46,7 @@
     {% endif %}
 
     {% if member.affiliation %}
-      <span class="portrait-affiliation">
-        {{ member.affiliation }}
-      </span>
+      <span class="portrait-affiliation">{{ member.affiliation }}</span>
     {% endif %}
-
-  {% if member.external_url or page.slug != member.slug %}
-    </a>
-  {% else %}
-    </div>
-  {% endif %}
+  </a>
 </div>
-
-
-
-
-
-
-
-
-
