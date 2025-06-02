@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% assign tag = page.tag %}
+{% assign projects = site.projects | where_exp: "item", "item.tags contains tag" %}
+
+{% include section.html %}
+
+{% if projects.size > 0 %}
+  {% for project in projects %}
+    {% include card.html
+      image=project.image
+      link=project.url
+      title=project.title
+      description=project.description
+      tags=project.tags
+    %}
+  {% endfor %}
+{% else %}
+  <p>No projects found with this tag.</p>
+{% endif %}
