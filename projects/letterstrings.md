@@ -2,6 +2,9 @@
 title: Letterstring analogies
 layout: default
 image: /images/analogy-ai.png
+tags:
+  - participate
+  - infographic
 ---
 
 # Analogy solving
