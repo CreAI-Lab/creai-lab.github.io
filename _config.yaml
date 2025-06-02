@@ -42,6 +42,9 @@ collections:
   # generate page for each post
   posts:
     output: true
+  # generate page for each tag
+  tags:
+    output: true
 
 # jekyll plugins
 plugins:
