@@ -2,6 +2,9 @@
 title: Bongard Problems
 layout: default
 image: /images/bongard-ai.png
+tags:
+  - participate
+  - infographic
 ---
 
 # Solving Bongard Problems
