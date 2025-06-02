@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: c.stevenson@uva.nl
-  orcid: 0000-0001-8713-9213
+  orcid: 0009-0004-2982-0069
   google-scholar: nmT-EaUAAAAJ
   github: CreAI-Lab
-  twitter: CreAI-Lab
-  youtube: CreAI-Lab
+ ## twitter: CreAI-Lab
+ ## youtube: CreAI-Lab
 
 ### jekyll settings
 
