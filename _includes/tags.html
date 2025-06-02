@@ -22,7 +22,7 @@
   >
     {% for tag in tags %}
       <a
-        href="{{ link | append: '/' | replace: '//', '/' }}?search=&quot;tag: {{ tag }}&quot;"
+        href="/tags/{{ tag | slugify }}/"
         class="tag"
         data-tooltip="Show items with the tag &quot;{{ tag }}&quot;"
       >
