@@ -3,9 +3,9 @@
   image: /images/creative-ai.png  # Replace with your actual image path
   description: Can AI generate creative output? Participate in our experiment!
   link: /projects/creativity-of-ai  # Replace with real URL
-  tags:
-    - infographic
-    - participate
+  #tags:
+ #   - infographic
+ #   - participate
 
 
 - title: Bongard Problems
@@ -13,18 +13,18 @@
   image: /images/bongard-ai.png  # Replace with your actual image path
   description: Can AI answer Bongard Problems correctly? Solve some classic Bongard problems yourself!
   link: /projects/bongard-problems  # Replace with real URL
-  tags:
-    - infographic
-    - participate
+#  tags:
+ #   - infographic
+  #  - participate
     
 - title: Letterstring Analogies
   group: featured
   image: /images/analogy-ai.png  # Replace with your actual image path
   description: Can AI do analogical reasoning? Participate in analogy-solving tasks using letterstrings!
   link: /projects/letterstrings  # Replace with real URL
-  tags:
-    - infographic
-    - participate
+  #tags:
+   # - infographic
+    #- participate
 
 
 # original projects of the template
