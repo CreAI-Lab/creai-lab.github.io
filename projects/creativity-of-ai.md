@@ -2,6 +2,9 @@
 title: Creativity of AI
 layout: default
 image: /images/creative-ai.png
+tags:
+  - participate
+  - infographic
 ---
 
 # Creativity of AI
