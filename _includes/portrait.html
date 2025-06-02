@@ -6,23 +6,15 @@
 
 {% assign type = site.data.types[member.role] %}
 <div class="portrait-wrapper">
-
-  {% assign link_url = member.url | relative_url %}
-  {% assign is_external = member.external_url %}
-  {% if is_external %}
-    {% assign link_url = member.external_url %}
-  {% endif %}
-
-  <a 
-    href="{{ link_url }}" 
+  <a
+    href="{{ member.external_url | default: member.url | relative_url }}"
     class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: 'member link' | regex_strip }}"
-    {% if is_external %}
+    {% if member.external_url %}
       target="_blank" rel="noopener"
     {% endif %}
   >
-
     {% if type %}
       {% include icon.html icon=type.icon %}
     {% endif %}
