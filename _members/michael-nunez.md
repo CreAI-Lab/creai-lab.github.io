@@ -6,5 +6,5 @@ group: collaborators                   # Use "collaborators" if she is a collabo
 description: Methods department of Psychology at the University of Amsterdam
 links:
   UvA-page: https://www.uva.nl/profiel/n/u/m.d.nunez/m.d.nunez.html
-  Website: https://www.michaeldnunez.com/
+  website: https://www.michaeldnunez.com/
 ---
