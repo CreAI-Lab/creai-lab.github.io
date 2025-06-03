@@ -4,5 +4,6 @@ image: images/team/lonneke.jpg  # Make sure this image exists at the specified p
 role: professor              # Or "collaborator", "assistant professor", etc.
 group: collaborators                   # Use "collaborators" if she is a collaborator
 description: Institute of Argumentation, Linguistics and Semiotics, and Faculty of Informatics at the Università della Svizzera italiana
-external_url: https://sites.google.com/site/lonnekenlp/
+links:
+  Website: https://sites.google.com/site/lonnekenlp/
 ---
