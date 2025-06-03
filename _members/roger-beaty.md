@@ -5,5 +5,5 @@ role: professor              # Or "collaborator", "assistant professor", etc.
 group: collaborators                   # Use "collaborators" if she is a collaborator
 description: Associate Professor of Psychology at Penn State University
 links:
-  PenState-page: https://psych.la.psu.edu/people/rub736/
+  Link: https://psych.la.psu.edu/people/rub736/
 ---
