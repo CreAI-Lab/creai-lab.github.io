@@ -5,7 +5,6 @@ role: phd
 description: PhD student at the University of Amsterdam
 group: team
 links:
-  email: g.opielka@uva.nl
 ---
 
  
