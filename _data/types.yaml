@@ -40,10 +40,15 @@ link:
   text: Link
   tooltip: Link
 
+UvA-page:
+  icon: fa-solid fa-globe
+  text: UvA-page
+  tooltip: Go to the UvA page
+
 website:
   icon: fa-solid fa-globe
   text: Website
-  tooltip: Website
+  tooltip: Go to their website
 
 external:
   icon: fa-solid fa-up-right-from-square
