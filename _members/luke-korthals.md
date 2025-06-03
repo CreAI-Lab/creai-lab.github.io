@@ -6,5 +6,5 @@ group: collaborators                   # Use "collaborators" if she is a collabo
 description: PhD student at the University of Amsterdam
 links:
   UvA-page: https://www.uva.nl/profiel/k/o/l.korthals/l.korthals.html
-  Website: https://lukekorthals.github.io/
+  website: https://lukekorthals.github.io/
 ---
