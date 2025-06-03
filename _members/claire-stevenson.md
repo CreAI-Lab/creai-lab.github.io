@@ -11,11 +11,3 @@ links:
 
 ---
 
-Research Focus: 
-- Cognitive development  
-- Intelligence  
-- Creativity  
-- Artificial creativity  
-- Artificial general intelligence  
-
-
