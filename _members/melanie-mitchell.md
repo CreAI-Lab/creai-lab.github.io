@@ -4,6 +4,7 @@ image: images/team/melanie.jpg  # Make sure this image exists at the specified p
 role: professor              # Or "collaborator", "assistant professor", etc.
 group: collaborators                   # Use "collaborators" if she is a collaborator
 description: Professor at the Santa Fe Institute
-external_url: https://melaniemitchell.me/  
+links:
+  Website: https://melaniemitchell.me/  
 ---
 
