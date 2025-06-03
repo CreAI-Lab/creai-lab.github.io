@@ -6,5 +6,5 @@ group: collaborators                   # Use "collaborators" if she is a collabo
 description: Assistant Professor of Neurosymbolic AI in the Institute of Logic, Language, and Computation, University of Amsterdam.
 links:
   UvA-page: https://www.illc.uva.nl/People/Staff/person/4753/Dr-Martha-Lewis
-  Website: https://marthaflinderslewis.github.io/
+  website: https://marthaflinderslewis.github.io/
 ---
