@@ -5,6 +5,6 @@ role: professor              # Or "collaborator", "assistant professor", etc.
 group: collaborators                   # Use "collaborators" if she is a collaborator
 description: Professor at the Santa Fe Institute
 links:
-  Website: https://melaniemitchell.me/  
+  website: https://melaniemitchell.me/  
 ---
 
