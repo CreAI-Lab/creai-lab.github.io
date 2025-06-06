@@ -5,6 +5,6 @@
 
   # CreAI-Lab's Website
 
-  Visit **[creai-lab.github.io/CreAI-Lab](https://creai-lab.github.io/CreAI-Lab)** 🚀
+  Visit **[creai-lab.github.io](https://creai-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
