@@ -1,5 +1,6 @@
 # site properties and page defaults
 title: 
+baseurl: ""
 subtitle: 
 description: Research into the creativity and intelligence of AI.
 header: images/background.jpg
