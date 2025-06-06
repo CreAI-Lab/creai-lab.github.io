@@ -1,1 +1,1 @@
-Sitemap: https://creai-lab.github.io/CreAI-Lab/sitemap.xml
+Sitemap: https://creai-lab.github.io/sitemap.xml
