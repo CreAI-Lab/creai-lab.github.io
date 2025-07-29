@@ -1,13 +1,13 @@
 ---
-title: Daily puzzle challenge
+title: ScienceLive Results
 nav:
   order: 4
-  tooltip: Try some of the puzzles we give to AI!
+  tooltip: See the results of our NEMO ScienceLive study
 ---
 
 # {% include icon.html icon="fa-solid fa-puzzle-piece" %}Daily puzzle challenge
 
-Sadly we have no content for this page yet. 
+Unfortunately, we have no results yet. 
 
 {% raw %}
 <!--
