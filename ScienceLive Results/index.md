@@ -5,7 +5,7 @@ nav:
   tooltip: See the results of our NEMO ScienceLive study
 ---
 
-# {% include icon.html icon="fa-solid fa-puzzle-piece" %}Daily puzzle challenge
+# {% include icon.html icon="fa-solid fa-puzzle-piece" %}ScienceLive Results
 
 Unfortunately, we have no results yet. 
 
