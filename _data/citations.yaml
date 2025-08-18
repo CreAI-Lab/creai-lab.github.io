@@ -363,7 +363,7 @@
   title: 'Analogical Reasoning Inside Large Language Models: Concept Vectors and the
     Limits of Abstraction'
   authors:
-  - "Gustaw Opie\u0142ka"
+  - "Gustaw Opie\xC5\x82ka"
   - Hannes Rosenbusch
   - Claire E. Stevenson
   publisher: arXiv
@@ -376,7 +376,7 @@
     Adults and AI'
   authors:
   - Surabhi S Nath
-  - "Guiomar del Cuvillo y Schr\xF6der"
+  - "Guiomar del Cuvillo y Schr\xC3\xB6der"
   - Claire E. Stevenson
   publisher: arXiv
   date: '2025-02-11'
@@ -402,7 +402,7 @@
   - Claire Stevenson
   - Lonneke van der Plas
   publisher: arXiv
-  date: '2025-03-05'
+  date: '2025-05-13'
   link: https://arxiv.org/abs/2411.02316
   plugin: sources.py
   file: sources.yaml
@@ -420,7 +420,7 @@
 - id: arXiv:2403.09734
   title: Do Large Language Models Solve ARC Visual Analogies Like People Do?
   authors:
-  - "Gustaw Opie\u0142ka"
+  - "Gustaw Opie\xC5\x82ka"
   - Hannes Rosenbusch
   - Veerle Vijverberg
   - Claire E. Stevenson
@@ -711,7 +711,7 @@
   title: 'Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural
     Networks and the Brain'
   authors:
-  - "Gustaw Opie\u0142ka"
+  - "Gustaw Opie\xC5\x82ka"
   - Jessica Loke
   - Steven Scholte
   publisher: arXiv
