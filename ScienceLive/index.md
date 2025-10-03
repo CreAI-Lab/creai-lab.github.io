@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-puzzle-piece" %}ScienceLive Results
 
-Click <a href="https://creailab.net/NEMO2025/sciencelive.html">here</a> to watch the live results of NEMO ScienceLive as they unfold. The study takes place from 2-15 August in the NEMO Science Museum in Amsterdam.
+Click <a href="https://creailab.net/creai-app/sciencelive.html">here</a> view the live results of our "SmarterThanAI" app results as they unfold. This study runs at the University of Amsterdam from Oct 10th - Dec 12th 2025.
+
+Click <a href="https://creailab.net/NEMO2025/sciencelive.html">here</a> view the final results of NEMO ScienceLive. The study took place from 2-15 August 2025 in the NEMO Science Museum in Amsterdam.
 
 {% raw %}
 <!--
