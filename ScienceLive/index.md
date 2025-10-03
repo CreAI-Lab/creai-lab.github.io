@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-puzzle-piece" %}ScienceLive Results
 
-Click <a href="https://creailab.net/NEMO2025/sciencelive.php">here</a> to watch the live results of NEMO ScienceLive as they unfold. The study takes place from 2-15 August in the NEMO Science Museum in Amsterdam.
+Click <a href="https://creailab.net/NEMO2025/sciencelive.html">here</a> to watch the live results of NEMO ScienceLive as they unfold. The study takes place from 2-15 August in the NEMO Science Museum in Amsterdam.
 
 {% raw %}
 <!--
