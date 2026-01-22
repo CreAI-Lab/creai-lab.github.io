@@ -16,7 +16,7 @@ Here you can find the latest publications of the lab.
 
 ## Highlighted
 
-{% include citation.html lookup="Can Large Language Models generalize analogy solving like people can?" style="compact" %}
+{% include citation.html lookup="Can Large Language Models generalize analogy solving like children can?" style="compact" %}
 
 {% include section.html %} 
 
