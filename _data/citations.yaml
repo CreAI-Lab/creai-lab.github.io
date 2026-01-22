@@ -3,7 +3,7 @@
 - id: doi:10.31234/osf.io/f4a2g
   title: Automated Assessment of Creativity in Multilingual Narratives
   authors:
-  - Simone Luchini
+  - Simone A Luchini
   - Moosa Ibraheem Muhammad
   - John D. Patterson
   - Dan Richard Johnson
@@ -45,7 +45,7 @@
   - M.S.M. Sachisthal
   - C. Paans
   - A.D. Hofman
-  - C.M. Stevenson
+  - C.E. Stevenson
   - H.L.J. van der Maas
   - I. Molenaar
   - B.R.J. Jansen
@@ -128,7 +128,7 @@
   authors:
   - Claire Stevenson
   - Matthijs Baas
-  - Han van der Maas
+  - Han L. J. van der Maas
   publisher: Center for Open Science
   date: '2020-06-23'
   link: https://doi.org/g9g5hs
@@ -188,7 +188,7 @@
   - Claire Stevenson
   - Dylan Molenaar
   - Ingmar Visser
-  - Han van der Maas
+  - Han L. J. van der Maas
   publisher: Center for Open Science
   date: '2018-02-28'
   link: https://doi.org/gfrfwk
@@ -384,14 +384,14 @@
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2411.02348
-  title: Can Large Language Models generalize analogy solving like people can?
+  title: Can Large Language Models generalize analogy solving like children can?
   authors:
   - Claire E. Stevenson
   - Alexandra Pafford
   - Han L. J. van der Maas
   - Melanie Mitchell
   publisher: arXiv
-  date: '2025-03-13'
+  date: '2025-10-07'
   link: https://arxiv.org/abs/2411.02348
   plugin: sources.py
   file: sources.yaml
