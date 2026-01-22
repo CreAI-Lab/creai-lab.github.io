@@ -359,6 +359,61 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.intell.2025.101975
+  title: 'Varieties of divergent thinking: A network analysis of Guilford, Merriefield
+    and Cox (1961)'
+  authors:
+  - Baptiste Barbot
+  - Lea Marie Naczenski
+  - Matthijs Baas
+  - Claire E. Stevenson
+  publisher: Intelligence
+  date: '2026-01-01'
+  link: https://doi.org/hbkxt7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2509.09381
+  title: 'Modelling Analogies and Analogical Reasoning: Connecting Cognitive Science
+    Theory and NLP Research'
+  authors:
+  - Molly R Petersen
+  - Claire E Stevenson
+  - Lonneke van der Plas
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbkxt8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2508.10057
+  title: Large Language Models Show Signs of Alignment with Human Neurocognition During
+    Abstract Reasoning
+  authors:
+  - Christopher Pinier
+  - "Sonia Acu\xF1a Vargas"
+  - Mariia Steeghs-Turchina
+  - Dora Matzke
+  - Claire E. Stevenson
+  - Michael D. Nunez
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbkxt9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18653/v1/2025.conll-1.40
+  title: Do large language models solve verbal analogies like children do?
+  authors:
+  - Tamar Johnson
+  - Mathilde ter Veen
+  - Rochelle Choenni
+  - Han van der Maas
+  - Ekaterina Shutova
+  - Claire E Stevenson
+  publisher: Proceedings of the 29th Conference on Computational Natural Language
+    Learning
+  date: '2025-01-01'
+  link: https://doi.org/hbkxvb
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2503.03666
   title: 'Analogical Reasoning Inside Large Language Models: Concept Vectors and the
     Limits of Abstraction'
