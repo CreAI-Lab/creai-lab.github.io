@@ -17,6 +17,10 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+junior researcher:
+  icon: fa-solid fa-graduation-cap
+  description: Junior Researcher
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
