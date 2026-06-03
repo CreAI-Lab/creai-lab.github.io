@@ -157,8 +157,12 @@ for index, source in enumerate(sources):
                 warnings.append(
                     f"Manubot could not generate citation for source {_id} (from {file} with {plugin})"
                 )
-                # discard source from citations
-                continue
+                ## discard source from citations
+                ##continue #removed and replaced with:
+                # Keep the source metadata rather than discarding it
+                citation = {"citation_status": "unresolved",
+                            "citation_error": str(e),
+                           }
 
     # preserve fields from input source, overriding existing fields
     citation.update(source)
