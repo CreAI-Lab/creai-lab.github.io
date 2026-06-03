@@ -450,15 +450,15 @@
   link: https://arxiv.org/abs/2411.02348
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2411.02316
+- id: doi:10.48550/arXiv.2411.02316
   title: Evaluating Creative Short Story Generation in Humans and Large Language Models
   authors:
   - Mete Ismayilzada
   - Claire Stevenson
   - Lonneke van der Plas
   publisher: arXiv
-  date: '2025-05-13'
-  link: https://arxiv.org/abs/2411.02316
+  date: '2024-01-01'
+  link: https://doi.org/hb6d3c
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2405.00899
@@ -640,7 +640,7 @@
   authors:
   - Claire E. Stevenson
   publisher: International Journal of Artificial Intelligence in Education
-  date: '2016-12-20'
+  date: '2017-09-01'
   link: https://doi.org/g9h4qf
   plugin: sources.py
   file: sources.yaml
