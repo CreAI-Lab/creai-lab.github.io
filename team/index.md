@@ -17,6 +17,10 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="group == 'collaborators'" %}
 
+## Alumni
+
+{% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
+
 
 
 
