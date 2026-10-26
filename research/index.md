@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The CreAI Lab studies the foundations of intelligence and creativity by setting human and AI cognition side by side. We test children, adults, and the newest language and vision-language models on the same creativity tasks, puzzles and reasoning problems. Comparing where they overlap and where they diverge helps us understand what intelligence and creativity are, and how they develop.
+How do people and AI systems become intelligent and creative? The CreAI Lab addresses this question by studying how humans and AI systems develop the cognitive abilities that underlie intelligence and creativity, with a particular focus on analogy as a core mechanism. We use psychometric and mechanistic interpretability methods to quantify when AI systems are truly reasoning, generalizing, and generating novel insights rather than relying on superficial shortcuts. We also use developmental comparison as a scientific method to understand how these abilities emerge in humans and how they can be fostered in AI systems.
 
 This work is funded by an NWO Vidi grant, an NWO Open Competition grant and a NIAS Theme Group fellowship; see the [grants on our Projects page]({{ "/projects/#featured" | relative_url }}).
 
