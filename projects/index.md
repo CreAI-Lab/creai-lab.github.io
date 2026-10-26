@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Here you can find the grants that fund our research and posters about our work. The public posters explain our studies for a general audience, and some let you take part yourself by solving the same puzzles we give to AI. The conference posters summarize results we have presented at scientific meetings. For the full list of papers, see the [Research page]({{ "/research/" | relative_url }}).
+Here you can find the grants that fund our research and posters about our work. The public posters explain our studies for a general audience, and some let you take part yourself by solving the same puzzles we give to AI. For the full list of papers, see the [Research page]({{ "/research/" | relative_url }}).
 
 <!-- {% include tags.html tags="participate, infographic, resource" %} -->
 
