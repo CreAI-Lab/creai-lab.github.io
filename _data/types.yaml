@@ -17,6 +17,10 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+researcher:
+  icon: fa-solid fa-microscope
+  description: Researcher
+
 junior researcher:
   icon: fa-solid fa-graduation-cap
   description: Junior Researcher

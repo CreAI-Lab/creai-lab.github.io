@@ -21,9 +21,9 @@ The CreAI Lab has done interesting projects over the years. For a full list of p
 
 {% include section.html %}
 
-## Grants
+## Earlier projects
 
-{% include list.html component="card" data="projects" filter="group == 'grants'" %}
+{% include list.html component="card" data="projects" filter="group == 'earlier'" %}
 
 {% include section.html %}
 
