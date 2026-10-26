@@ -1,17 +1,25 @@
 # Claire's articles
 - id: doi:10.1016/j.intell.2025.101975
-- id: doi:10.48550/arXiv.2509.09381
+- id: doi:10.1162/tacl.a.632
 - id: doi:10.48550/arXiv.2508.10057
 - id: doi:10.18653/v1/2025.conll-1.40
 - id: arXiv:2503.03666
 - id: arXiv:2502.05999
-- id: arXiv:2411.02348
+  publisher: Proceedings of the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025)
+  link: https://escholarship.org/uc/item/1rq6h8xg
+- id: doi:10.1162/tacl.a.614
 - id: doi:10.48550/arXiv.2411.02316
+  publisher: Proceedings of the 16th International Conference on Computational Creativity (ICCC 2025)
+  date: 2025-01-01
+  link: https://computationalcreativity.net/iccc25/papers/iccc25-ismayilzada2025evaluating.pdf
 - id: arXiv:2405.00899
+  publisher: Proceedings of the 15th International Conference on Computational Creativity (ICCC 2024)
 - id: arXiv:2403.09734
+  publisher: Proceedings of the 46th Annual Meeting of the Cognitive Science Society (CogSci 2024)
 - id: arXiv:2311.08083
 - id: arXiv:2310.20384
 - id: arXiv:2206.08932
+  publisher: Proceedings of the 13th International Conference on Computational Creativity (ICCC 2022)
 - id: doi:10.1037/aca0000725
 - id: doi:10.1017/S0140525X23003497
 - id: doi:10.1037/aca0000618
@@ -42,7 +50,7 @@
     - Claire E Stevenson
     - Wilma CM Resing
     - Willem J Heiser
-  conference: AIED Workshops
+  publisher: AIED Workshops
   date: 2013-1-1
   link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c18cd644983d16dbc51af62eae4c01cea2546af6
 - title: Assessing Software Design Skills and their Relation with Reasoning Skills.
@@ -50,7 +58,7 @@
     - Dave R Stikkolorum
     - Claire Stevenson
     - Michel RV Chaudron
-  conference: EduSymp@ MoDELS
+  publisher: EduSymp@ MoDELS
   date: 2013-1-1
   link: https://homepages.inf.ed.ac.uk/perdita/EduSymp/edusymp2013_submission_8.pdf
 - title: Computer or paper analogy puzzles. Does assessment mode influence young children's strategy progression?
@@ -73,3 +81,41 @@
 - id: arXiv:2403.09734
 - id: arXiv:2503.03666
 - id: arXiv:2404.18772
+
+# conference papers only listed on google scholar
+- id: arXiv:2604.06501
+  publisher: Proceedings of the 2026 Conference on Language Modeling (COLM 2026)
+- id: nmT-EaUAAAAJ:IjCSPb-OGe4C
+  publisher: Proceedings of the 31st Annual Conference of the Cognitive Science Society (CogSci 2009)
+- id: nmT-EaUAAAAJ:CYCckWUYoCcC
+  publisher: Conference on Cognitive Computational Neuroscience (CCN 2026)
+  date: 2026-01-01
+- id: nmT-EaUAAAAJ:qe6vwMD2xtsC
+  publisher: Conference on Cognitive Computational Neuroscience (CCN 2026)
+  date: 2026-01-01
+
+# hidden duplicates/incomplete entries from orcid and google scholar
+- id: nmT-EaUAAAAJ:DyXnQzXoVgIC # Varieties of divergent thinking (scholar)
+  remove: true
+- id: nmT-EaUAAAAJ:Xl6nMSl579sC # Transformer See, Transformer Do (scholar, replaced by arXiv:2604.06501)
+  remove: true
+- id: doi:10.31234/osf.io/f4a2g # Automated Assessment of Creativity in Multilingual Narratives (preprint)
+  remove: true
+- id: doi:10.48550/arXiv.2411.02348 # Can LLMs generalize analogy solving like children can? (arXiv)
+  remove: true
+- id: doi:10.48550/arXiv.2405.00899 # Characterising the Creative Process (arXiv)
+  remove: true
+- id: doi:10.48550/arXiv.2311.08083 # Solving ARC visual analogies (arXiv)
+  remove: true
+- id: doi:10.48550/arXiv.2206.08932 # Putting GPT-3's Creativity to the Test (arXiv)
+  remove: true
+- id: doi:10.31234/osf.io/5eryv # Creative or Not? (preprint)
+  remove: true
+- id: nmT-EaUAAAAJ:kWvqk_afx_IC # Automated AUT scoring final technical report (scholar)
+  remove: true
+- id: nmT-EaUAAAAJ:8Xgff_V0N9gC # Dynamic testing (scholar, incomplete)
+  remove: true
+- id: nmT-EaUAAAAJ:DrR-2ekChdkC # frontiers in (scholar, incomplete)
+  remove: true
+- id: nmT-EaUAAAAJ:sszUF3NjhM4C # Puzzling with potential (scholar, incomplete)
+  remove: true

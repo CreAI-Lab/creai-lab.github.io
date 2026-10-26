@@ -105,7 +105,11 @@ for a in range(0, len(sources)):
         b_id = get_safe(sources, f"{b}.id", "")
         if b_id == a_id:
             log(f"Found duplicate {b_id}", indent=2)
+            # keep original plugin/file, so e.g. overriding fields of a google scholar
+            # source in sources.yaml doesn't make its uncitable id a hard error
+            origin = {key: sources[a][key] for key in ["plugin", "file"] if key in sources[a]}
             sources[a].update(sources[b])
+            sources[a].update(origin)
             sources[b] = {}
 sources = [entry for entry in sources if entry]
 
