@@ -51,6 +51,42 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:sA9dB-pw3HoC
+  title: Automated AUT scoring using a big data variant of the consensual assessment
+    technique
+  authors:
+  - C Stevenson
+  - I Smal
+  - M Baas
+  - M Dahrendorf
+  - R Grasman
+  - C Tanis
+  - '...'
+  publisher: ''
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:sA9dB-pw3HoC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:LXmCCkuhhTsC
+  title: "Causality\u2260 Invariance: Function and Concept Vectors in LLMs"
+  authors:
+  - G Opielka
+  - H Rosenbusch
+  - C Stevenson
+  publisher: International Conference on Learning Representations 2026, 83393-83417,
+    2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:LXmCCkuhhTsC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:UuEBAcK4md4C
   title: 'Creative cognition: a collaborative research agenda'
   authors:
@@ -215,6 +251,39 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:Xl6nMSl579sC
+  title: 'Transformer See, Transformer Do: Copying as an Intermediate Step in Learning
+    Analogical Reasoning'
+  authors:
+  - P Hellwig
+  - W Zuidema
+  - CE Stevenson
+  - M Lewis
+  publisher: arXiv preprint arXiv:2604.06501, 2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:Xl6nMSl579sC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:DyXnQzXoVgIC
+  title: Varieties of divergent thinking
+  authors:
+  - B Barbot
+  - LM Naczenski
+  - M Baas
+  - CE Stevenson
+  publisher: Intelligence 114, 2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:DyXnQzXoVgIC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:rbm3iO8VlycC
   title: Moderate evidence for large language models reflecting human neurocognition
     during abstract reasoning
@@ -231,6 +300,21 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:SGW5VrABaM0C
+  title: Are LLMs tools to understand human neurocognition during abstract reasoning?
+  authors:
+  - C Pinier
+  - CE Stevenson
+  - MD Nunez
+  publisher: Computational Cognitive Neuroscience, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:SGW5VrABaM0C
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:mKu_rENv82IC
   title: "Preregistration for \u2018Creative or Not?\u2019"
   authors:
@@ -240,6 +324,21 @@
   publisher: ''
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:mKu_rENv82IC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:8Xgff_V0N9gC
+  title: Dynamic testing
+  authors:
+  - CE Stevenson
+  - WJ Heiser
+  - WCM Resing
+  publisher: Learning and Individual Differences 47, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:8Xgff_V0N9gC
   gsid: nmT-EaUAAAAJ
   claire-stevenson: true
   plugin: google-scholar.py
@@ -348,56 +447,87 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:c0117a8b-943c-456c-81e2-05317d96388c
-  title: "Causality \u2260 Invariance: Function and Concept Vectors in LLMs"
-  publisher: "Causality \u2260 Invariance: Function and Concept Vectors in LLMs"
-  date: '2026-10-19'
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:2f2cb608-57fc-4c06-98fc-b5e1720dcbe6
-  title: Varieties of divergent thinking
+- id: doi:10.1016/j.intell.2025.101975
+  title: 'Varieties of divergent thinking: A network analysis of Guilford, Merriefield
+    and Cox (1961)'
+  authors:
+  - Baptiste Barbot
+  - Lea Marie Naczenski
+  - Matthijs Baas
+  - Claire E. Stevenson
   publisher: Intelligence
-  date: '2026-08-18'
+  date: '2026-01-01'
+  link: https://doi.org/hbkxt7
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:997054c5-59fa-4c12-ac54-10164b6108d9
-  title: Automated Assessment of Creativity in Multilingual Narratives
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1037/aca0000725
+  title: Automated assessment of creativity in multilingual narratives.
+  authors:
+  - Simone A. Luchini
+  - Ibraheem Muhammad Moosa
+  - John D. Patterson
+  - Dan Johnson
+  - Matthijs Baas
+  - Baptiste Barbot
+  - Iana Bashmakova
+  - Mathias Benedek
+  - Qunlin Chen
+  - Giovanni E. Corazza
+  - Boris Forthmann
+  - Benjamin Goecke
+  - Sameh Said-Metwaly
+  - Maciej Karwowski
+  - Yoed N. Kenett
+  - Izabela Lebuda
+  - Todd Lubart
+  - Kirill G. Miroshnik
+  - Felix-Kingsley Obialo
+  - Marcela Ovando-Tellez
+  - Ricardo Primi
+  - "Rogelio Puente-D\xEDaz"
+  - Claire Stevenson
+  - Emmanuelle Volle
+  - "Aleksandra Zieli\u0144ska"
+  - Janet G. van Hell
+  - Wenpeng Yin
+  - Roger E. Beaty
   publisher: Psychology of Aesthetics, Creativity, and the Arts
-  date: '2026-08-18'
+  date: '2026-08-01'
+  link: https://doi.org/g9h4m4
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:800a9255-84d4-4666-a27e-44743ed366ef
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2310.20384
   title: Do large language models solve verbal analogies like children do?
-  publisher: 'The 29th Conference on Computational Natural Language Learning (CoNLL
-    2025) : Proceedings of the Conference'
-  date: '2026-03-04'
+  authors:
+  - Claire E. Stevenson
+  - Mathilde ter Veen
+  - Rochelle Choenni
+  - Han L. J. van der Maas
+  - Ekaterina Shutova
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hcpzqp
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:32656df6-0516-47b9-88f3-79126925e19b
+- id: doi:10.48550/arXiv.2411.02316
   title: Evaluating Creative Short Story Generation in Humans and Large Language Models
-  date: '2025-09-09'
+  authors:
+  - Mete Ismayilzada
+  - Claire Stevenson
+  - Lonneke van der Plas
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hb6d3c
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.31234/osf.io/f4a2g
   title: Automated Assessment of Creativity in Multilingual Narratives
   authors:
@@ -436,17 +566,6 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:6cff8de5-af65-47c0-a3a4-555b2e1e7251
-  title: Are LLMs tools to understand human neurocognition during abstract reasoning?
-  publisher: 2024 Conference on Cognitive Computational Neuroscience, Boston, United
-    States, 6/08/24
-  date: '2025-07-01'
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.chbr.2024.100456
   title: "Playing single-player tasks together: Dyads\u2019 collaborative activities\
     \ across two games in Math Garden"
@@ -465,43 +584,45 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:c58653d1-8b3b-485d-85f2-4ad3b4375654
-  title: Distinct neurocognitive pathways underlying creativity
-  publisher: Behavioral and Brain Sciences
-  date: '2025-09-09'
+- id: pmid:38770864
+  title: 'Distinct neurocognitive pathways underlying creativity: An integrative approach.'
+  authors:
+  - Matthijs Baas
+  - Claire E Stevenson
+  - Corinna Perchtold-Stefan
+  - Bernard A Nijstad
+  - Carsten K W De Dreu
+  publisher: The Behavioral and brain sciences
+  date: '2024-05-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38770864
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:d14f17be-6aa4-4e7d-aa31-45035fa3b178
+- id: doi:10.48550/arXiv.2405.00899
   title: Characterising the Creative Process in Humans and Large Language Models
-  publisher: Proceedings of the Fifteenth International Conference on Computational
-    Creativity
-  date: '2025-10-15'
+  authors:
+  - Surabhi S. Nath
+  - Peter Dayan
+  - Claire Stevenson
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hcpzqq
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:5e222c04-e4ba-4406-a1e0-e91c2609861f
-  title: Do Large Language Models Solve ARC Visual Analogies Like People Do?
-  publisher: 46th Annual Meeting of the Cognitive Science Society (CogSci 2024)
-  date: '2026-01-15'
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:d2eebe37-30d5-4416-ace0-0efa8980b0ce
+- id: doi:10.48550/arXiv.2311.08083
   title: 'Solving ARC visual analogies with neural embeddings and vector arithmetic:
     A generalized method'
-  date: '2024-12-03'
+  authors:
+  - Luca H. Thoms
+  - Karel A. Veldkamp
+  - Hannes Rosenbusch
+  - Claire E. Stevenson
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hcpzqr
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
@@ -519,17 +640,47 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:0189eff5-8bc5-4ec4-a5a0-d7b8054ef166
-  title: 'Multilingual Semantic Distance: Automatic Verbal Creativity Assessment in
-    Many Languages'
+- id: doi:10.1037/aca0000618
+  title: 'Multilingual semantic distance: Automatic verbal creativity assessment in
+    many languages.'
+  authors:
+  - John D. Patterson
+  - Hannah M. Merseal
+  - Dan R. Johnson
+  - Sergio Agnoli
+  - Matthijs Baas
+  - Brendan S. Baker
+  - Baptiste Barbot
+  - Mathias Benedek
+  - Khatereh Borhani
+  - Qunlin Chen
+  - Julia F. Christensen
+  - Giovanni Emanuele Corazza
+  - Boris Forthmann
+  - Maciej Karwowski
+  - Nastaran Kazemian
+  - Ariel Kreisberg-Nitzav
+  - Yoed N. Kenett
+  - Allison Link
+  - Todd Lubart
+  - Maxence Mercier
+  - Kirill Miroshnik
+  - Marcela Ovando-Tellez
+  - Ricardo Primi
+  - "Rogelio Puente-D\xEDaz"
+  - Sameh Said-Metwaly
+  - Claire Stevenson
+  - Meghedi Vartanian
+  - Emannuelle Volle
+  - Janet G. van Hell
+  - Roger E. Beaty
   publisher: Psychology of Aesthetics, Creativity, and the Arts
-  date: '2026-08-18'
+  date: '2023-08-01'
+  link: https://doi.org/gts76g
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/xlm0001177
   title: Creative or not? Hierarchical diffusion modeling of the creative evaluation
     process.
@@ -544,26 +695,34 @@
   claire-stevenson: true
   plugin: sources.py
   file: sources.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:837d04e9-c4f6-4866-809d-8b428226ab43
-  title: "Putting GPT-3\u2019s Creativity to the (Alternative Uses) Test"
-  publisher: Proceedings of the 13th International Conference on Computational Creativity
-  date: '2025-10-15'
+- id: doi:10.48550/arXiv.2206.08932
+  title: Putting GPT-3's Creativity to the (Alternative Uses) Test
+  authors:
+  - Claire Stevenson
+  - Iris Smal
+  - Matthijs Baas
+  - Raoul Grasman
+  - Han van der Maas
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/hcpzqs
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:fc4013ca-8be1-414b-9c09-4799701385e4
+- id: doi:10.1016/j.intell.2021.101548
   title: How much intelligence is there in artificial intelligence? A 2020 update
+  authors:
+  - Han L.J. van der Maas
+  - Lukas Snoek
+  - Claire E. Stevenson
   publisher: Intelligence
-  date: '2026-08-18'
+  date: '2021-07-01'
+  link: https://doi.org/gj6vsr
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.31234/osf.io/5eryv
   title: Creative or Not? Hierarchical Diffusion Modeling of the Creative Evaluation
     Process
@@ -600,16 +759,6 @@
   publisher: MDPI AG
   date: '2020-10-15'
   link: https://doi.org/g9g5hr
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:13ad004a-1b61-45a0-8a9a-56d7a165d7ef
-  title: Automated AUT scoring using a Big Data variant of the Consensual Assessment
-    Technique
-  date: '2026-08-18'
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
@@ -670,17 +819,20 @@
   claire-stevenson: true
   plugin: sources.py
   file: sources.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:4d60202c-3376-4963-bdfe-b388dccf690e
+- id: doi:10.1007/s11145-017-9803-8
   title: CBM maze-scores as indicators of reading level and growth for seventh-grade
     students
-  publisher: Reading & Writing
-  date: '2025-09-09'
+  authors:
+  - Siuman Chung
+  - Christine A. Espin
+  - Claire E. Stevenson
+  publisher: Reading and Writing
+  date: '2017-11-18'
+  link: https://doi.org/gc2zs7
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.31219/osf.io/xa2ft
   title: 'The dynamics of the development of mathematics skills: A comparison of theories
     of developing intelligence.'
@@ -698,28 +850,32 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:2e7ed08c-3efe-4838-84cb-8f711e9535e9
+- id: doi:10.1007/s40593-016-0129-5
   title: "Role of Working Memory and Strategy-Use in Feedback Effects on children\u2019\
-    s Progression in Analogy Solving"
+    s Progression in Analogy Solving:an Explanatory Item Response Theory Account"
+  authors:
+  - Claire E. Stevenson
   publisher: International Journal of Artificial Intelligence in Education
-  date: '2026-08-18'
+  date: '2017-09-01'
+  link: https://doi.org/g9h4qf
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:66c0185d-07e9-4f26-bf8a-31f7278b7978
-  title: 'Differences in need for instruction: Dynamic testing in children with arithmetic
-    difficulties'
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.11114/jets.v5i6.2326
+  title: 'Differences in Need for Instruction: Dynamic Testing in Children with Arithmetic
+    Difficulties'
+  authors:
+  - Tirza Bosma
+  - Claire E. Stevenson
+  - Wilma C. M. Resing
   publisher: Journal of Education and Training Studies
-  date: '2025-11-10'
+  date: '2017-05-07'
+  link: https://doi.org/g9h4qg
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/jintelligence5020016
   title: Network Models for Cognitive Development  and Intelligence
   authors:
@@ -734,16 +890,22 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:f072900e-8b7b-4692-a49f-d3d0d33e1e77
-  title: Training in the adolescent brain
+- id: doi:10.1037/dev0000239
+  title: 'Training in the adolescent brain: An fMRI training study on divergent thinking.'
+  authors:
+  - Sietske W. Kleibeuker
+  - Claire E. Stevenson
+  - Laura van der Aar
+  - Sandy Overgaauw
+  - Anna C. van Duijvenvoorde
+  - Eveline A. Crone
   publisher: Developmental Psychology
-  date: '2025-09-09'
+  date: '2017-02-01'
+  link: https://doi.org/f9wrdr
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.20944/preprints201701.0107.v1
   title: Network Models for Cognitive Development and Intelligence
   authors:
@@ -772,16 +934,19 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:bfca0e05-8b7d-4a41-b55a-34715b188efc
+- id: doi:10.1177/0734282915622912
   title: Dynamic Testing of Analogical Reasoning in 5- to 6-Year-Olds
+  authors:
+  - Claire E. Stevenson
+  - Willem J. Heiser
+  - Wilma C. M. Resing
   publisher: Journal of Psychoeducational Assessment
-  date: '2025-01-17'
+  date: '2016-08-03'
+  link: https://doi.org/f83h43
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.lindif.2014.11.010
   title: "Third graders\u2019 verbal reports of multiplication strategy use: How valid\
     \ are they?"
@@ -842,17 +1007,6 @@
   claire-stevenson: true
   plugin: sources.py
   file: sources.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: eid:2-s2.0-84921670611
-  title: Assessing software design skills and their relation with reasoning skills
-  publisher: CEUR Workshop Proceedings
-  date: '2025-09-09'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84921670611&partnerID=MN8TOARS
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.intell.2013.01.003
   title: Explanatory item response modeling of children's change on a dynamic test
     of analogical reasoning
@@ -865,18 +1019,6 @@
   publisher: Intelligence
   date: '2013-05-01'
   link: https://doi.org/f4xsjc
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: eid:2-s2.0-84924975851
-  title: Individual differences in the effect of feedback on children's change in
-    analogical reasoning
-  publisher: CEUR Workshop Proceedings
-  date: '2025-09-09'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84924975851&partnerID=MN8TOARS
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
@@ -895,49 +1037,36 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:18d1c69f-a9ae-43f4-b483-7ad10027f31b
-  title: Dynamic Testing
+- id: doi:10.1891/1945-8959.11.2.159
+  title: 'Dynamic Testing: Measuring Inductive Reasoning in Children With Developmental
+    Disabilities and Mild Cognitive Impairments'
+  authors:
+  - Wilma C. M. Resing
+  - Claire E. Stevenson
+  - Tirza Bosma
   publisher: Journal of Cognitive Education and Psychology
-  date: '2025-01-18'
+  date: '2012-01-01'
+  link: https://doi.org/g9h4qj
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: eid:2-s2.0-84871416249
-  title: 'Computer or paper analogy puzzles: Does assessment mode influence young
-    children''s strategy progression'
-  publisher: Educational and Child Psychology
-  date: '2025-09-09'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871416249&partnerID=MN8TOARS
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:510fe2fc-c62c-4f3e-8d89-59adba4d1ec6
-  title: Computerized Dynamic Testing
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1891/1945-8959.10.2.178
+  title: 'Computerized Dynamic Testing: A Study of the Potential of an Approach Using
+    Sensor Technology'
+  authors:
+  - Wilma C. M. Resing
+  - Wouter M. P. Steijn
+  - Iro Xenidou-Dervou
+  - Claire E. Stevenson
+  - Julian G. Elliott
   publisher: Journal of Cognitive Education and Psychology
-  date: '2026-08-18'
+  date: '2011-01-01'
+  link: https://doi.org/dnj4nw
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:0397de68-a696-4456-b617-643f7d8513b7
-  title: 'Analogical reasoning skill acquisition with self-explanation in 7-8 year
-    olds: Does feedback help?'
-  publisher: Educational and Child Psychology
-  date: '2025-11-03'
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1348/026151004772901122
   title: "Discovery and maintenance of the many\u2010to\u2010one counting strategy\
     \ in 4\u2010year\u2010olds: A microgenetic study"
@@ -969,40 +1098,20 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:839acd67-5a38-486f-8d3b-6b6d3f49d1ae
-  title: Can Large Language Models generalize analogy solving like people can?
-  publisher: Transactions of the Association for Computational Linguistics
-  date: '2026-04-08'
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: source-work-id:62169cd1-f6ab-484c-b0f6-67bc873136bf
-  title: 'Transformer See, Transformer Do: Copying as an Intermediate Step in Learning
-    Analogical Reasoning'
-  publisher: Proceedings of the 2026 Conference on Language Modelling
-  date: '2026-09-17'
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.intell.2025.101975
-  title: 'Varieties of divergent thinking: A network analysis of Guilford, Merriefield
-    and Cox (1961)'
+- id: doi:10.48550/arXiv.2411.02348
+  title: Can Large Language Models generalize analogy solving like children can?
   authors:
-  - Baptiste Barbot
-  - Lea Marie Naczenski
-  - Matthijs Baas
   - Claire E. Stevenson
-  publisher: Intelligence
-  date: '2026-01-01'
-  link: https://doi.org/hbkxt7
-  plugin: sources.py
-  file: sources.yaml
+  - Alexandra Pafford
+  - Han L. J. van der Maas
+  - Melanie Mitchell
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hcpzqt
+  orcid: 0000-0003-1797-9836
+  claire-stevenson: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arXiv.2509.09381
   title: 'Modelling Analogies and Analogical Reasoning: Connecting Cognitive Science
     Theory and NLP Research'
@@ -1081,17 +1190,6 @@
   link: https://arxiv.org/abs/2411.02348
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2411.02316
-  title: Evaluating Creative Short Story Generation in Humans and Large Language Models
-  authors:
-  - Mete Ismayilzada
-  - Claire Stevenson
-  - Lonneke van der Plas
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/hb6d3c
-  plugin: sources.py
-  file: sources.yaml
 - id: arXiv:2405.00899
   title: Characterising the Creative Process in Humans and Large Language Models
   authors:
@@ -1154,42 +1252,6 @@
   link: https://arxiv.org/abs/2206.08932
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1037/aca0000725
-  title: Automated assessment of creativity in multilingual narratives.
-  authors:
-  - Simone A. Luchini
-  - Ibraheem Muhammad Moosa
-  - John D. Patterson
-  - Dan Johnson
-  - Matthijs Baas
-  - Baptiste Barbot
-  - Iana Bashmakova
-  - Mathias Benedek
-  - Qunlin Chen
-  - Giovanni E. Corazza
-  - Boris Forthmann
-  - Benjamin Goecke
-  - Sameh Said-Metwaly
-  - Maciej Karwowski
-  - Yoed N. Kenett
-  - Izabela Lebuda
-  - Todd Lubart
-  - Kirill G. Miroshnik
-  - Felix-Kingsley Obialo
-  - Marcela Ovando-Tellez
-  - Ricardo Primi
-  - "Rogelio Puente-D\xEDaz"
-  - Claire Stevenson
-  - Emmanuelle Volle
-  - "Aleksandra Zieli\u0144ska"
-  - Janet G. van Hell
-  - Wenpeng Yin
-  - Roger E. Beaty
-  publisher: Psychology of Aesthetics, Creativity, and the Arts
-  date: '2026-08-01'
-  link: https://doi.org/g9h4m4
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1017/S0140525X23003497
   title: 'Distinct neurocognitive pathways underlying creativity: An integrative approach'
   authors:
@@ -1201,141 +1263,6 @@
   publisher: Behavioral and Brain Sciences
   date: '2024-01-01'
   link: https://doi.org/g9h4m5
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1037/aca0000618
-  title: 'Multilingual semantic distance: Automatic verbal creativity assessment in
-    many languages.'
-  authors:
-  - John D. Patterson
-  - Hannah M. Merseal
-  - Dan R. Johnson
-  - Sergio Agnoli
-  - Matthijs Baas
-  - Brendan S. Baker
-  - Baptiste Barbot
-  - Mathias Benedek
-  - Khatereh Borhani
-  - Qunlin Chen
-  - Julia F. Christensen
-  - Giovanni Emanuele Corazza
-  - Boris Forthmann
-  - Maciej Karwowski
-  - Nastaran Kazemian
-  - Ariel Kreisberg-Nitzav
-  - Yoed N. Kenett
-  - Allison Link
-  - Todd Lubart
-  - Maxence Mercier
-  - Kirill Miroshnik
-  - Marcela Ovando-Tellez
-  - Ricardo Primi
-  - "Rogelio Puente-D\xEDaz"
-  - Sameh Said-Metwaly
-  - Claire Stevenson
-  - Meghedi Vartanian
-  - Emannuelle Volle
-  - Janet G. van Hell
-  - Roger E. Beaty
-  publisher: Psychology of Aesthetics, Creativity, and the Arts
-  date: '2023-08-01'
-  link: https://doi.org/gts76g
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.intell.2021.101548
-  title: How much intelligence is there in artificial intelligence? A 2020 update
-  authors:
-  - Han L.J. van der Maas
-  - Lukas Snoek
-  - Claire E. Stevenson
-  publisher: Intelligence
-  date: '2021-07-01'
-  link: https://doi.org/gj6vsr
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s11145-017-9803-8
-  title: CBM maze-scores as indicators of reading level and growth for seventh-grade
-    students
-  authors:
-  - Siuman Chung
-  - Christine A. Espin
-  - Claire E. Stevenson
-  publisher: Reading and Writing
-  date: '2017-11-18'
-  link: https://doi.org/gc2zs7
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s40593-016-0129-5
-  title: "Role of Working Memory and Strategy-Use in Feedback Effects on children\u2019\
-    s Progression in Analogy Solving:an Explanatory Item Response Theory Account"
-  authors:
-  - Claire E. Stevenson
-  publisher: International Journal of Artificial Intelligence in Education
-  date: '2017-09-01'
-  link: https://doi.org/g9h4qf
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.11114/jets.v5i6.2326
-  title: 'Differences in Need for Instruction: Dynamic Testing in Children with Arithmetic
-    Difficulties'
-  authors:
-  - Tirza Bosma
-  - Claire E. Stevenson
-  - Wilma C. M. Resing
-  publisher: Journal of Education and Training Studies
-  date: '2017-05-07'
-  link: https://doi.org/g9h4qg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1037/dev0000239
-  title: 'Training in the adolescent brain: An fMRI training study on divergent thinking.'
-  authors:
-  - Sietske W. Kleibeuker
-  - Claire E. Stevenson
-  - Laura van der Aar
-  - Sandy Overgaauw
-  - Anna C. van Duijvenvoorde
-  - Eveline A. Crone
-  publisher: Developmental Psychology
-  date: '2017-02-01'
-  link: https://doi.org/f9wrdr
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1177/0734282915622912
-  title: Dynamic Testing of Analogical Reasoning in 5- to 6-Year-Olds
-  authors:
-  - Claire E. Stevenson
-  - Willem J. Heiser
-  - Wilma C. M. Resing
-  publisher: Journal of Psychoeducational Assessment
-  date: '2016-08-03'
-  link: https://doi.org/f83h43
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1891/1945-8959.11.2.159
-  title: 'Dynamic Testing: Measuring Inductive Reasoning in Children With Developmental
-    Disabilities and Mild Cognitive Impairments'
-  authors:
-  - Wilma C. M. Resing
-  - Claire E. Stevenson
-  - Tirza Bosma
-  publisher: Journal of Cognitive Education and Psychology
-  date: '2012-01-01'
-  link: https://doi.org/g9h4qj
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1891/1945-8959.10.2.178
-  title: 'Computerized Dynamic Testing: A Study of the Potential of an Approach Using
-    Sensor Technology'
-  authors:
-  - Wilma C. M. Resing
-  - Wouter M. P. Steijn
-  - Iro Xenidou-Dervou
-  - Claire E. Stevenson
-  - Julian G. Elliott
-  publisher: Journal of Cognitive Education and Psychology
-  date: '2011-01-01'
-  link: https://doi.org/dnj4nw
   plugin: sources.py
   file: sources.yaml
 - title: Idiographic Approach Using Computer Adaptive Practicing
