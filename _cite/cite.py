@@ -145,7 +145,7 @@ for index, source in enumerate(sources):
 
         try:
             # run Manubot and set citation
-            citation = cite_with_manubot(_id)
+            citation = fix_mojibake(cite_with_manubot(_id))
 
         # if Manubot cannot cite source
         except Exception as e:

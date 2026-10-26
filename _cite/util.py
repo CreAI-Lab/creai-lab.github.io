@@ -85,6 +85,23 @@ def get_safe(item, path, default=None):
     return item
 
 
+def fix_mojibake(value):
+    """
+    repair utf-8 text that was wrongly decoded as latin-1 (e.g. "SchrÃ¶der")
+    """
+
+    if isinstance(value, str):
+        try:
+            return value.encode("latin-1").decode("utf-8")
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            return value
+    if isinstance(value, list):
+        return [fix_mojibake(item) for item in value]
+    if isinstance(value, dict):
+        return {key: fix_mojibake(item) for key, item in value.items()}
+    return value
+
+
 def list_of_dicts(data):
     """
     check if data is list of dicts
