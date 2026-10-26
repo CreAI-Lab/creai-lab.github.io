@@ -18,26 +18,6 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:kWvqk_afx_IC
-  title: 'Automated AUT scoring using a big data variant of the consensual assessment
-    technique: Final technical report'
-  authors:
-  - C Stevenson
-  - I Smal
-  - M Baas
-  - M Dahrendorf
-  - R Grasman
-  - C Tanis
-  - '...'
-  publisher: 'Amsterdam: Universiteit van Amsterdam.[Google Scholar], 2020'
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:kWvqk_afx_IC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:UeHWp8X0CEIC
   title: 'Puzzling with potential: dynamic testing of analogical reasoning in children'
   authors:
@@ -126,19 +106,6 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:sszUF3NjhM4C
-  title: Puzzling with potential
-  authors:
-  - CE Stevenson
-  publisher: Dynamic testing of analogical reason, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:sszUF3NjhM4C
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:U_HPUtbDl20C
   title: 'Dynamic testing with an electronic console: Do children listen to the computer'
   authors:
@@ -185,7 +152,8 @@
   - CE Stevenson
   - J Winkel
   - A Berkeljon
-  publisher: ''
+  publisher: Proceedings of the 31st Annual Conference of the Cognitive Science Society
+    (CogSci 2009)
   date: '2009-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:IjCSPb-OGe4C
   gsid: nmT-EaUAAAAJ
@@ -251,39 +219,6 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:Xl6nMSl579sC
-  title: 'Transformer See, Transformer Do: Copying as an Intermediate Step in Learning
-    Analogical Reasoning'
-  authors:
-  - P Hellwig
-  - W Zuidema
-  - CE Stevenson
-  - M Lewis
-  publisher: arXiv preprint arXiv:2604.06501, 2026
-  date: '2026-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:Xl6nMSl579sC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:DyXnQzXoVgIC
-  title: Varieties of divergent thinking
-  authors:
-  - B Barbot
-  - LM Naczenski
-  - M Baas
-  - CE Stevenson
-  publisher: Intelligence 114, 2026
-  date: '2026-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:DyXnQzXoVgIC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:rbm3iO8VlycC
   title: Moderate evidence for large language models reflecting human neurocognition
     during abstract reasoning
@@ -330,45 +265,14 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:8Xgff_V0N9gC
-  title: Dynamic testing
-  authors:
-  - CE Stevenson
-  - WJ Heiser
-  - WCM Resing
-  publisher: Learning and Individual Differences 47, 2016
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:8Xgff_V0N9gC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:DrR-2ekChdkC
-  title: frontiers in
-  authors:
-  - CE Stevenson
-  - "SW Kleibeuker\xB9"
-  - CKW de Dreu
-  - "EA Crone\xB9"
-  publisher: The Cognitive, Emotional and Neural Correlates of Creativity, 6, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:DrR-2ekChdkC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:qe6vwMD2xtsC
   title: Analogical Reasoning Abilities of MLLMs, Children and Adults on Bongard Problems
   authors:
   - M Metz
   - CE Stevenson
   - HLJ van der Maas
-  publisher: 9th Annual Conference on Cognitive Computational Neuroscience, 0
-  date: ''
+  publisher: Conference on Cognitive Computational Neuroscience (CCN 2026)
+  date: '2026-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:qe6vwMD2xtsC
   gsid: nmT-EaUAAAAJ
   claire-stevenson: true
@@ -384,8 +288,8 @@
   - G Opielka
   - T Johnson
   - CE Stevenson
-  publisher: 9th Annual Conference on Cognitive Computational Neuroscience, 0
-  date: ''
+  publisher: Conference on Cognitive Computational Neuroscience (CCN 2026)
+  date: '2026-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:CYCckWUYoCcC
   gsid: nmT-EaUAAAAJ
   claire-stevenson: true
@@ -460,8 +364,8 @@
   link: https://doi.org/hbkxt7
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1037/aca0000725
   title: Automated assessment of creativity in multilingual narratives.
   authors:
@@ -498,8 +402,8 @@
   link: https://doi.org/g9h4m4
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arXiv.2310.20384
   title: Do large language models solve verbal analogies like children do?
   authors:
@@ -521,47 +425,10 @@
   - Mete Ismayilzada
   - Claire Stevenson
   - Lonneke van der Plas
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/hb6d3c
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.31234/osf.io/f4a2g
-  title: Automated Assessment of Creativity in Multilingual Narratives
-  authors:
-  - Simone A Luchini
-  - Moosa Ibraheem Muhammad
-  - John D. Patterson
-  - Dan Richard Johnson
-  - Matthijs Baas
-  - Baptiste Barbot
-  - Iana Bashmakova
-  - Mathias Benedek
-  - Qunlin Chen
-  - GIOVANNI EMANUELE CORAZZA
-  - Boris Forthmann
-  - Benjamin Goecke
-  - Sameh Said Ibrahim
-  - Maciej Karwowski
-  - Yoed Kenett
-  - Izabela Lebuda
-  - Todd Lubart
-  - Kirill G. Miroshnik
-  - Felix Kingsley Obialo
-  - Marcela Ovando-Tellez
-  - Ricardo Primi
-  - Rogelio Puente Diaz
-  - Claire Stevenson
-  - Emmanuelle Volle
-  - "Aleksandra Zieli\u0144ska"
-  - Janet van Hell
-  - Yin Wenpeng
-  - Roger Beaty
-  publisher: Center for Open Science
-  date: '2024-08-22'
-  link: https://doi.org/g9g5hk
+  publisher: Proceedings of the 16th International Conference on Computational Creativity
+    (ICCC 2025)
+  date: '2025-01-01'
+  link: https://computationalcreativity.net/iccc25/papers/iccc25-ismayilzada2025evaluating.pdf
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
@@ -595,34 +462,6 @@
   publisher: The Behavioral and brain sciences
   date: '2024-05-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38770864
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/arXiv.2405.00899
-  title: Characterising the Creative Process in Humans and Large Language Models
-  authors:
-  - Surabhi S. Nath
-  - Peter Dayan
-  - Claire Stevenson
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/hcpzqq
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/arXiv.2311.08083
-  title: 'Solving ARC visual analogies with neural embeddings and vector arithmetic:
-    A generalized method'
-  authors:
-  - Luca H. Thoms
-  - Karel A. Veldkamp
-  - Hannes Rosenbusch
-  - Claire E. Stevenson
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/hcpzqr
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
@@ -679,8 +518,8 @@
   link: https://doi.org/gts76g
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1037/xlm0001177
   title: Creative or not? Hierarchical diffusion modeling of the creative evaluation
     process.
@@ -691,21 +530,6 @@
   publisher: 'Journal of Experimental Psychology: Learning, Memory, and Cognition'
   date: '2023-06-01'
   link: https://doi.org/g9g5hp
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2206.08932
-  title: Putting GPT-3's Creativity to the (Alternative Uses) Test
-  authors:
-  - Claire Stevenson
-  - Iris Smal
-  - Matthijs Baas
-  - Raoul Grasman
-  - Han van der Maas
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hcpzqs
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
   plugin: orcid.py
@@ -721,20 +545,6 @@
   link: https://doi.org/gj6vsr
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.31234/osf.io/5eryv
-  title: Creative or Not? Hierarchical Diffusion Modeling of the Creative Evaluation
-    Process
-  authors:
-  - Michelle C. Donzallaz
-  - Julia M. Haaf
-  - Claire Stevenson
-  publisher: Center for Open Science
-  date: '2021-04-03'
-  link: https://doi.org/g9g5hq
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/jintelligence9010009
@@ -748,8 +558,8 @@
   link: https://doi.org/gmm8bh
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.20944/preprints202010.0314.v1
   title: Creative Mathematical Thinking in a Numbers Game
   authors:
@@ -817,8 +627,8 @@
   link: https://doi.org/gdfdh4
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s11145-017-9803-8
   title: CBM maze-scores as indicators of reading level and growth for seventh-grade
     students
@@ -831,8 +641,8 @@
   link: https://doi.org/gc2zs7
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.31219/osf.io/xa2ft
   title: 'The dynamics of the development of mathematics skills: A comparison of theories
     of developing intelligence.'
@@ -860,8 +670,8 @@
   link: https://doi.org/g9h4qf
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.11114/jets.v5i6.2326
   title: 'Differences in Need for Instruction: Dynamic Testing in Children with Arithmetic
     Difficulties'
@@ -874,8 +684,8 @@
   link: https://doi.org/g9h4qg
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/jintelligence5020016
   title: Network Models for Cognitive Development  and Intelligence
   authors:
@@ -904,8 +714,8 @@
   link: https://doi.org/f9wrdr
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.20944/preprints201701.0107.v1
   title: Network Models for Cognitive Development and Intelligence
   authors:
@@ -945,8 +755,8 @@
   link: https://doi.org/f83h43
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.lindif.2014.11.010
   title: "Third graders\u2019 verbal reports of multiplication strategy use: How valid\
     \ are they?"
@@ -1005,8 +815,8 @@
   link: https://doi.org/g9g5hw
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.intell.2013.01.003
   title: Explanatory item response modeling of children's change on a dynamic test
     of analogical reasoning
@@ -1049,8 +859,8 @@
   link: https://doi.org/g9h4qj
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1891/1945-8959.10.2.178
   title: 'Computerized Dynamic Testing: A Study of the Potential of an Approach Using
     Sensor Technology'
@@ -1065,8 +875,8 @@
   link: https://doi.org/dnj4nw
   orcid: 0000-0003-1797-9836
   claire-stevenson: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1348/026151004772901122
   title: "Discovery and maintenance of the many\u2010to\u2010one counting strategy\
     \ in 4\u2010year\u2010olds: A microgenetic study"
@@ -1098,30 +908,16 @@
   claire-stevenson: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2411.02348
-  title: Can Large Language Models generalize analogy solving like children can?
-  authors:
-  - Claire E. Stevenson
-  - Alexandra Pafford
-  - Han L. J. van der Maas
-  - Melanie Mitchell
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/hcpzqt
-  orcid: 0000-0003-1797-9836
-  claire-stevenson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/arXiv.2509.09381
+- id: doi:10.1162/tacl.a.632
   title: 'Modelling Analogies and Analogical Reasoning: Connecting Cognitive Science
     Theory and NLP Research'
   authors:
-  - Molly R Petersen
-  - Claire E Stevenson
+  - Molly R. Petersen
+  - Claire E. Stevenson
   - Lonneke van der Plas
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hbkxt8
+  publisher: Transactions of the Association for Computational Linguistics
+  date: '2026-01-01'
+  link: https://doi.org/hcpzrp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2508.10057
@@ -1173,21 +969,22 @@
   - Surabhi S Nath
   - "Guiomar del Cuvillo y Schr\xC3\xB6der"
   - Claire E. Stevenson
-  publisher: arXiv
+  publisher: Proceedings of the 47th Annual Meeting of the Cognitive Science Society
+    (CogSci 2025)
   date: '2025-02-11'
-  link: https://arxiv.org/abs/2502.05999
+  link: https://escholarship.org/uc/item/1rq6h8xg
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2411.02348
-  title: Can Large Language Models generalize analogy solving like children can?
+- id: doi:10.1162/tacl.a.614
+  title: Can Large Language Models Generalize Analogy Solving Like Children Can?
   authors:
   - Claire E. Stevenson
   - Alexandra Pafford
   - Han L. J. van der Maas
   - Melanie Mitchell
-  publisher: arXiv
-  date: '2025-10-07'
-  link: https://arxiv.org/abs/2411.02348
+  publisher: Transactions of the Association for Computational Linguistics
+  date: '2026-01-01'
+  link: https://doi.org/hcpzrn
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2405.00899
@@ -1196,7 +993,8 @@
   - Surabhi S. Nath
   - Peter Dayan
   - Claire Stevenson
-  publisher: arXiv
+  publisher: Proceedings of the 15th International Conference on Computational Creativity
+    (ICCC 2024)
   date: '2024-06-07'
   link: https://arxiv.org/abs/2405.00899
   plugin: sources.py
@@ -1208,7 +1006,8 @@
   - Hannes Rosenbusch
   - Veerle Vijverberg
   - Claire E. Stevenson
-  publisher: arXiv
+  publisher: Proceedings of the 46th Annual Meeting of the Cognitive Science Society
+    (CogSci 2024)
   date: '2024-05-14'
   link: https://arxiv.org/abs/2403.09734
   plugin: sources.py
@@ -1247,7 +1046,8 @@
   - Matthijs Baas
   - Raoul Grasman
   - Han van der Maas
-  publisher: arXiv
+  publisher: Proceedings of the 13th International Conference on Computational Creativity
+    (ICCC 2022)
   date: '2022-06-22'
   link: https://arxiv.org/abs/2206.08932
   plugin: sources.py
@@ -1283,7 +1083,7 @@
   - Claire E Stevenson
   - Wilma CM Resing
   - Willem J Heiser
-  conference: AIED Workshops
+  publisher: AIED Workshops
   date: '2013-01-01'
   link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c18cd644983d16dbc51af62eae4c01cea2546af6
   plugin: sources.py
@@ -1293,7 +1093,7 @@
   - Dave R Stikkolorum
   - Claire Stevenson
   - Michel RV Chaudron
-  conference: EduSymp@ MoDELS
+  publisher: EduSymp@ MoDELS
   date: '2013-01-01'
   link: https://homepages.inf.ed.ac.uk/perdita/EduSymp/edusymp2013_submission_8.pdf
   plugin: sources.py
@@ -1330,5 +1130,18 @@
   publisher: arXiv
   date: '2024-04-30'
   link: https://arxiv.org/abs/2404.18772
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2604.06501
+  title: 'Transformer See, Transformer Do: Copying as an Intermediate Step in Learning
+    Analogical Reasoning'
+  authors:
+  - Philipp Hellwig
+  - Willem Zuidema
+  - Claire E. Stevenson
+  - Martha Lewis
+  publisher: Proceedings of the 2026 Conference on Language Modeling (COLM 2026)
+  date: '2026-08-21'
+  link: https://arxiv.org/abs/2604.06501
   plugin: sources.py
   file: sources.yaml
