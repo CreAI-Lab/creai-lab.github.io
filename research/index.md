@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The research of the CreAI Lab focusses on investigating the intelligence and creativity of the newest AI models. Through creativity tasks, puzzles and intelligence tests both languange and vision language models get tested and compared to adults and even children. 
+The CreAI Lab studies the foundations of intelligence and creativity by setting human and AI cognition side by side. We test children, adults, and the newest language and vision-language models on the same creativity tasks, puzzles and reasoning problems. Comparing where they overlap and where they diverge helps us understand what intelligence and creativity are, and how they develop.
+
+This work is funded by an NWO Vidi grant, an NWO Open Competition grant and a NIAS Theme Group fellowship; see the [grants on our Projects page]({{ "/projects/#grants" | relative_url }}).
 
 Here you can find the latest publications of the lab. 
 

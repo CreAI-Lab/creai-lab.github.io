@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-The CreaAI lab has done interesting projects over the years. For a full list of publications go to the research page. Here you can find results and you can even participate in some of the studies. 
+The CreAI Lab has done interesting projects over the years. For a full list of publications go to the research page. Here you can find results and you can even participate in some of the studies. 
 
 <!-- {% include tags.html tags="participate, infographic, resource" %} -->
 
@@ -18,6 +18,12 @@ The CreaAI lab has done interesting projects over the years. For a full list of 
 ## Featured
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
+
+{% include section.html %}
+
+## Grants
+
+{% include list.html component="card" data="projects" filter="group == 'grants'" %}
 
 {% include section.html %}
 

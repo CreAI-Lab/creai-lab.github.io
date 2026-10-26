@@ -27,6 +27,27 @@
     #- participate
 
 
+- title: "How smart is AI really? Methods for investigating intelligence in humans and AI"
+  subtitle: NWO Vidi grant, 2026–2031
+  group: grants
+  image: /images/funders/nwo.png
+  link: https://www.nwo.nl/en/projects/vccqu27680
+  description: AI seems to be gaining human-like intelligence fast, but methods for measuring human intelligence don't carry over to AI, and vice versa. This project develops methods to compare the intelligence of AI models and humans, now and in the future, and to inform how AI can be used safely in everyday life.
+
+- title: "Learning to solve analogies: Why do children excel where AI models fail?"
+  subtitle: NWO Open Competition SSH (M), 2023–2027
+  group: grants
+  image: /images/funders/nwo.png
+  link: https://www.nwo.nl/en/projects/40622go029
+  description: Children learn to solve analogies such as "body is to feet as tree is to …?" in new domains, while AI models often fail outside familiar territory. This project studies how children learn analogical reasoning, to explain why AI falls short and to help build more robust, trustworthy AI.
+
+- title: "The ABCs of Analogy: Abstraction, Broad Generalization, and Composition"
+  subtitle: NIAS Theme Group fellowship, 2026/27
+  group: grants
+  image: /images/funders/nias.png
+  link: https://nias.knaw.nl/themegroup/abstraction-broad-generalization-and-composition-the-abcs-of-analogy/
+  description: A theme group with Lucia Donatelli and Martha Lewis on how analogical reasoning develops in humans and whether machines can replicate it. Claire's [fellowship project](https://nias.knaw.nl/fellow/claire-stevenson/) traces the shift from associative to relational reasoning in children and AI models.
+
 # original projects of the template
 #- title: Cool Dataset
 #  subtitle: a subtitle
