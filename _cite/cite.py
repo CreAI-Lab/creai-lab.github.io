@@ -177,33 +177,36 @@ for index, source in enumerate(sources):
 
 log()
 
-log("Removing Google Scholar duplicates")
+log("Removing duplicates of Google Scholar and unresolved entries")
 
 
-# google scholar ids never match doi/arxiv/etc ids, so dedupe scholar entries by title instead
+# google scholar and unresolved ids never match doi/arxiv/etc ids, so dedupe those entries by title instead
 def normalize_title(title):
     return "".join(char for char in str(title).lower() if char.isalnum())
 
 
-def from_scholar(citation):
-    return get_safe(citation, "plugin", "") == "google-scholar.py"
+def is_weak(citation):
+    return (
+        get_safe(citation, "plugin", "") == "google-scholar.py"
+        or get_safe(citation, "citation_status", "") == "unresolved"
+    )
 
 
 other_titles = {
     normalize_title(get_safe(citation, "title", ""))
     for citation in citations
-    if not from_scholar(citation)
+    if not is_weak(citation)
 }
 other_titles.discard("")
 
 deduped = []
 for citation in citations:
-    if from_scholar(citation):
+    if is_weak(citation):
         title = normalize_title(get_safe(citation, "title", ""))
         if title in other_titles:
             log(f"Skipping duplicate: {get_safe(citation, 'title', '')}", indent=1)
             continue
-        # also dedupe within scholar results themselves
+        # also dedupe weak entries among themselves
         other_titles.add(title)
     deduped.append(citation)
 

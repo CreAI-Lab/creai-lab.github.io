@@ -41,13 +41,22 @@ def main(entry):
             ids = ids + get_safe(summary, "external-ids.external-id", [])
 
         # find first id of particular "relationship" type
+        relationships = ["self", "version-of", "part-of"]
+        related = [
+            id
+            for id in ids
+            if get_safe(id, "external-id-relationship", "") in relationships
+        ]
+        # prefer ids of the work itself that Manubot can cite (e.g. doi over
+        # orcid-internal source-work-id), not "part-of" ids like a proceedings isbn
+        citeable = [
+            id
+            for id in ids
+            if get_safe(id, "external-id-relationship", "") == "self"
+            and get_safe(id, "external-id-type", "") in manubot_prefixes
+        ]
         _id = next(
-            (
-                id
-                for id in ids
-                if get_safe(id, "external-id-relationship", "")
-                in ["self", "version-of", "part-of"]
-            ),
+            iter(citeable + related),
             ids[0] if len(ids) > 0 else None,
         )
 
@@ -78,17 +87,39 @@ def main(entry):
             # get publisher
             publisher = first(lambda s: get_safe(s, "journal-title.value", ""))
 
-            # get date
+            # get publication date, e.g. 2011 or 2011-03 or 2011-03-05
+            def publication_date(summary):
+                parts = [
+                    get_safe(summary, f"publication-date.{part}.value", "")
+                    for part in ["year", "month", "day"]
+                ]
+                parts = [part for part in parts if part]
+                # pad missing month/day so date sorts and formats correctly
+                parts = parts + ["01"] * (3 - len(parts)) if parts else []
+                return "-".join(parts)
+
+            # get date (prefer publication date over record modified/created dates)
             date = (
-                get_safe(work, "last-modified-date.value")
+                first(publication_date)
+                or get_safe(work, "last-modified-date.value")
                 or first(lambda s: get_safe(s, "last-modified-date.value"))
                 or get_safe(work, "created-date.value")
                 or first(lambda s: get_safe(s, "created-date.value"))
                 or 0
             )
 
-            # get link
-            link = first(lambda s: get_safe(s, "url.value", ""))
+            # get link, falling back to a link built from any external id
+            def id_link(id):
+                url = get_safe(id, "external-id-url.value", "")
+                if url:
+                    return url
+                if get_safe(id, "external-id-type", "") == "doi":
+                    return "https://doi.org/" + get_safe(id, "external-id-value", "")
+                return ""
+
+            link = first(lambda s: get_safe(s, "url.value", "")) or next(
+                (url for url in map(id_link, ids) if url), None
+            )
 
             # keep available details
             if title:
