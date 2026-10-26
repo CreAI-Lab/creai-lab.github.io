@@ -31,7 +31,11 @@ def main(entry):
     @cache.memoize(name=__file__, expire=1 * (60 * 60 * 24))
     def query(_id):
         params["author_id"] = _id
-        return get_safe(GoogleSearch(params).get_dict(), "articles", [])
+        response = GoogleSearch(params).get_dict()
+        # raise (rather than return/cache an empty list) on api errors, e.g. bad key or out of searches
+        if get_safe(response, "error", ""):
+            raise Exception(f"SerpAPI error: {response['error']}")
+        return get_safe(response, "articles", [])
 
     response = query(_id)
 
