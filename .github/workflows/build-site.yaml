@@ -25,6 +25,9 @@ jobs:
 
       - name: Checkout branch contents
         uses: actions/checkout@v4
+        with:
+          # latest branch head, to include citations committed earlier in this run
+          ref: ${{ github.ref }}
 
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
