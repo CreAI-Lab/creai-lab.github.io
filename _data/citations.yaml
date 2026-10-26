@@ -250,21 +250,6 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:mKu_rENv82IC
-  title: "Preregistration for \u2018Creative or Not?\u2019"
-  authors:
-  - MC Donzallaz
-  - JM Haaf
-  - CE Stevenson
-  publisher: ''
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:mKu_rENv82IC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:qe6vwMD2xtsC
   title: Analogical Reasoning Abilities of MLLMs, Children and Adults on Bongard Problems
   authors:
@@ -954,7 +939,7 @@
   title: 'Analogical Reasoning Inside Large Language Models: Concept Vectors and the
     Limits of Abstraction'
   authors:
-  - "Gustaw Opie\xC5\x82ka"
+  - "Gustaw Opie\u0142ka"
   - Hannes Rosenbusch
   - Claire E. Stevenson
   publisher: arXiv
@@ -967,7 +952,7 @@
     Adults and AI'
   authors:
   - Surabhi S Nath
-  - "Guiomar del Cuvillo y Schr\xC3\xB6der"
+  - "Guiomar del Cuvillo y Schr\xF6der"
   - Claire E. Stevenson
   publisher: Proceedings of the 47th Annual Meeting of the Cognitive Science Society
     (CogSci 2025)
@@ -1002,7 +987,7 @@
 - id: arXiv:2403.09734
   title: Do Large Language Models Solve ARC Visual Analogies Like People Do?
   authors:
-  - "Gustaw Opie\xC5\x82ka"
+  - "Gustaw Opie\u0142ka"
   - Hannes Rosenbusch
   - Veerle Vijverberg
   - Claire E. Stevenson
@@ -1124,7 +1109,7 @@
   title: 'Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural
     Networks and the Brain'
   authors:
-  - "Gustaw Opie\xC5\x82ka"
+  - "Gustaw Opie\u0142ka"
   - Jessica Loke
   - Steven Scholte
   publisher: arXiv
