@@ -1,7 +1,7 @@
 ---
 name: Claire Stevenson
-image: images/claire.jpg  # You’ll need to add this image
-role: assistant professor
+image: images/team/claire.jpg
+role: principal investigator
 description: Methods department of Psychology at the University of Amsterdam
 group: team
 links:

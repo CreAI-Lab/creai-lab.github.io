@@ -11,7 +11,9 @@ nav:
 
 ## Team
 
-{% include list.html data="members" component="portrait" filter="group == 'team'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal investigator'" %}
+
+{% include list.html data="members" component="portrait" filter="group == 'team' && role != 'principal investigator'" %}
 
 ## Collaborators
 
