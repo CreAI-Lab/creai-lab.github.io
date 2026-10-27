@@ -3,7 +3,7 @@ name: Hannes Rosenbusch
 image: images/team/hannes.jpg  # Make sure this image exists at the specified path
 role: professor              # Or "collaborator", "assistant professor", etc.
 group: collaborators                   # Use "collaborators" if she is a collaborator
-description: Psychological Methods at the University of Amsterdam
+description: Psychological Methods, University of Amsterdam
 links:
   UvA-page: https://www.uva.nl/profiel/r/o/h.rosenbusch/h.rosenbusch.html
   website: https://hannesrosenbusch.github.io/

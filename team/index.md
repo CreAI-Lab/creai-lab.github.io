@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+The CreAI Lab is based in the Psychological Methods group at the University of Amsterdam and is part of the [A.D. de Groot Cognitive AI Centre](https://degroot.ai). The lab is led by Claire Stevenson (Principal Investigator).
+
 ## Team
 
 {% include list.html data="members" component="portrait" filter="role == 'principal investigator'" %}
