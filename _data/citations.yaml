@@ -2,6 +2,26 @@
 
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:sA9dB-pw3HoC
+  title: Automated AUT scoring using a big data variant of the consensual assessment
+    technique
+  authors:
+  - C Stevenson
+  - I Smal
+  - M Baas
+  - M Dahrendorf
+  - R Grasman
+  - C Tanis
+  - '...'
+  publisher: ''
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:sA9dB-pw3HoC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:hsZV8lGYWTMC
   title: 'Dynamic testing of analogical reasoning in 5-to 6-year-olds: Multiple-choice
     versus constructed-response training items'
@@ -25,26 +45,6 @@
   publisher: Division of Developmental and Educational, 2012
   date: '2012-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:UeHWp8X0CEIC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:sA9dB-pw3HoC
-  title: Automated AUT scoring using a big data variant of the consensual assessment
-    technique
-  authors:
-  - C Stevenson
-  - I Smal
-  - M Baas
-  - M Dahrendorf
-  - R Grasman
-  - C Tanis
-  - '...'
-  publisher: ''
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:sA9dB-pw3HoC
   gsid: nmT-EaUAAAAJ
   claire-stevenson: true
   plugin: google-scholar.py
@@ -117,27 +117,6 @@
   publisher: Journal of Cognitive Education and Psychology 10 (2), 178-194, 2011
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:U_HPUtbDl20C
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:-jrNzM816MMC
-  title: "Final Technical Report Automated AUT scoring using a Big Data variant of\
-    \ the Consensual Assessment Technique Project The development of a valid and usable\
-    \ creativity test \u2026"
-  authors:
-  - C Stevenson
-  - I Smal
-  - M Baas
-  - M Dahrendorf
-  - R Grasman
-  - C Tanis
-  - '...'
-  publisher: ''
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:-jrNzM816MMC
   gsid: nmT-EaUAAAAJ
   claire-stevenson: true
   plugin: google-scholar.py
@@ -219,37 +198,6 @@
   file: google-scholar.yaml
 - citation_status: unresolved
   citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:rbm3iO8VlycC
-  title: Moderate evidence for large language models reflecting human neurocognition
-    during abstract reasoning
-  authors:
-  - C Pinier
-  - CE Stevenson
-  - MD Nunez
-  publisher: Computational Cognitive Neuroscience, 2025
-  date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:rbm3iO8VlycC
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
-  id: nmT-EaUAAAAJ:SGW5VrABaM0C
-  title: Are LLMs tools to understand human neurocognition during abstract reasoning?
-  authors:
-  - C Pinier
-  - CE Stevenson
-  - MD Nunez
-  publisher: Computational Cognitive Neuroscience, 2024
-  date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:SGW5VrABaM0C
-  gsid: nmT-EaUAAAAJ
-  claire-stevenson: true
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- citation_status: unresolved
-  citation_error: Couldn't parse Manubot response
   id: nmT-EaUAAAAJ:qe6vwMD2xtsC
   title: Analogical Reasoning Abilities of MLLMs, Children and Adults on Bongard Problems
   authors:
@@ -276,6 +224,37 @@
   publisher: Conference on Cognitive Computational Neuroscience (CCN 2026)
   date: '2026-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:CYCckWUYoCcC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:rbm3iO8VlycC
+  title: Moderate evidence for large language models reflecting human neurocognition
+    during abstract reasoning
+  authors:
+  - C Pinier
+  - CE Stevenson
+  - MD Nunez
+  publisher: Computational Cognitive Neuroscience, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:rbm3iO8VlycC
+  gsid: nmT-EaUAAAAJ
+  claire-stevenson: true
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- citation_status: unresolved
+  citation_error: Couldn't parse Manubot response
+  id: nmT-EaUAAAAJ:SGW5VrABaM0C
+  title: Are LLMs tools to understand human neurocognition during abstract reasoning?
+  authors:
+  - C Pinier
+  - CE Stevenson
+  - MD Nunez
+  publisher: Computational Cognitive Neuroscience, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nmT-EaUAAAAJ&pagesize=100&citation_for_view=nmT-EaUAAAAJ:SGW5VrABaM0C
   gsid: nmT-EaUAAAAJ
   claire-stevenson: true
   plugin: google-scholar.py
